@@ -1,0 +1,2602 @@
+[
+  {
+    "id": 1,
+    "name": "Traveler's Titles (Forge)",
+    "author": "YUNGNICKYOUNG",
+    "category": "utility",
+    "link": "https://www.curseforge.com/minecraft/mc-mods/travelers-titles",
+    "image": "/images/mods/default.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Nullscape",
+    "author": "Starmute",
+    "category": "utility",
+    "link": "https://www.curseforge.com/minecraft/mc-mods/nullscape",
+    "image": "/images/mods/default.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Prism [Neo/Forge]",
+    "author": "Grend_G",
+    "category": "utility",
+    "link": "https://www.curseforge.com/minecraft/mc-mods/prism-lib",
+    "image": "/images/mods/default.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Gliders",
+    "author": "Jeryn",
+    "category": "utility",
+    "link": "https://www.curseforge.com/minecraft/mc-mods/gliders",
+    "image": "/images/mods/default.jpg"
+  },
+  {
+    "id": 5,
+    "name": "CorgiLib",
+    "author": "Corgi_Taco",
+    "category": "utility",
+    "link": "https://www.curseforge.com/minecraft/mc-mods/corgilib",
+    "image": "/images/mods/default.jpg"
+  },
+  {
+    "id": 6,
+    "name": "The Twilight Forest",
+    "author": "Benimatic",
+    "category": "utility",
+    "link": "https://www.curseforge.com/minecraft/mc-mods/the-twilight-forest",
+    "image": "/images/mods/default.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Enhanced Boss Bars",
+    "author": "Nakuring",
+    "category": "utility",
+    "link": "https://www.curseforge.com/minecraft/mc-mods/enhanced-boss-bars",
+    "image": "/images/mods/default.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Placebo",
+    "author": "Shadows_of_Fire",
+    "category": "utility",
+    "link": "https://www.curseforge.com/minecraft/mc-mods/placebo",
+    "image": "/images/mods/default.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Hopo Better Ruined Portals",
+    "author": "hoponopono",
+    "category": "utility",
+    "link": "https://www.curseforge.com/minecraft/mc-mods/hopo-better-ruined-portals",
+    "image": "/images/mods/default.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Lukas' Weapon Leveling",
+    "author": "GekidoLukas",
+    "category": "utility",
+    "link": "https://www.curseforge.com/minecraft/mc-mods/weapon-leveling",
+    "image": "/images/mods/default.jpg"
+  },
+  {
+    "id": 11,
+    "name": "[ETF] Entity Texture Features - [Fabric & Forge]",
+    "author": "Traben",
+    "category": "utility",
+    "link": "https://www.curseforge.com/minecraft/mc-mods/entity-texture-features-fabric",
+    "image": "/images/mods/default.jpg"
+  },
+  {
+    "id": 12,
+    "name": "Awesome Dungeon Nether edition 📦",
+    "author": "jtl_elisa",
+    "category": "adventure",
+    "link": "https://www.curseforge.com/minecraft/texture-packs/awesome-dungeon-nether-edition-datapack",
+    "image": "/images/mods/default.jpg"
+  },
+  {
+    "id": 13,
+    "name": "Embeddium",
+    "author": "FiniteReality",
+    "category": "utility",
+    "link": "https://www.curseforge.com/minecraft/mc-mods/embeddium",
+    "image": "/images/mods/default.jpg"
+  },
+  {
+    "id": 14,
+    "name": "Origins: Classes (Forge)",
+    "author": "DragonsPlus",
+    "category": "utility",
+    "link": "https://www.curseforge.com/minecraft/mc-mods/origins-classes-forge",
+    "image": "/images/mods/default.jpg"
+  },
+  {
+    "id": 15,
+    "name": "Starlight (Forge)",
+    "author": "Spottedleaf",
+    "category": "utility",
+    "link": "https://www.curseforge.com/minecraft/mc-mods/starlight-forge",
+    "image": "/images/mods/default.jpg"
+  },
+  {
+    "id": 16,
+    "name": "YUNG's Better Mineshafts (Forge)",
+    "author": "YUNGNICKYOUNG",
+    "category": "utility",
+    "link": "https://www.curseforge.com/minecraft/mc-mods/yungs-better-mineshafts-forge",
+    "image": "/images/mods/default.jpg"
+  },
+  {
+    "id": 17,
+    "name": "Oculus",
+    "author": "Asek3",
+    "category": "utility",
+    "link": "https://www.curseforge.com/minecraft/mc-mods/oculus",
+    "image": "/images/mods/default.jpg"
+  },
+  {
+    "id": 18,
+    "name": "Cyclic",
+    "author": "Lothrazar",
+    "category": "utility",
+    "link": "https://www.curseforge.com/minecraft/mc-mods/cyclic",
+    "image": "/images/mods/default.jpg"
+  },
+  {
+    "id": 19,
+    "name": "OpenBlocks Elevator",
+    "author": "vsngarcia",
+    "category": "utility",
+    "link": "https://www.curseforge.com/minecraft/mc-mods/openblocks-elevator",
+    "image": "/images/mods/default.jpg"
+  },
+  {
+    "id": 20,
+    "name": "Blood And Madness (A Bloodborne Inspired Mod)",
+    "author": "Nitespring",
+    "category": "utility",
+    "link": "https://www.curseforge.com/minecraft/mc-mods/blood-and-madness",
+    "image": "/images/mods/default.jpg"
+  },
+  {
+    "id": 21,
+    "name": "Potion Rings - REFORGED [FORGE/NEOFORGE]",
+    "author": "Samlegamer_",
+    "category": "utility",
+    "link": "https://www.curseforge.com/minecraft/mc-mods/potion-ring-reforged",
+    "image": "/images/mods/default.jpg"
+  },
+  {
+    "id": 22,
+    "name": "Enchanting Infuser [Forge & Fabric]",
+    "author": "Fuzs",
+    "category": "utility",
+    "link": "https://www.curseforge.com/minecraft/mc-mods/enchanting-infuser-forge",
+    "image": "/images/mods/default.jpg"
+  },
+  {
+    "id": 23,
+    "name": "Born in Chaos",
+    "author": "mongoose_artist",
+    "category": "utility",
+    "link": "https://www.curseforge.com/minecraft/mc-mods/born-in-chaos",
+    "image": "/images/mods/default.jpg"
+  },
+  {
+    "id": 24,
+    "name": "Mandala's GUI - Dark mode",
+    "author": "cesar_zorak",
+    "category": "utility",
+    "link": "https://www.curseforge.com/minecraft/texture-packs/mandalas-gui-dark-mode",
+    "image": "/images/mods/default.jpg"
+  },
+  {
+    "id": 25,
+    "name": "ModernFix",
+    "author": "embeddedt",
+    "category": "utility",
+    "link": "https://www.curseforge.com/minecraft/mc-mods/modernfix",
+    "image": "/images/mods/default.jpg"
+  },
+  {
+    "id": 26,
+    "name": "Prefab",
+    "author": "wuestman",
+    "category": "utility",
+    "link": "https://www.curseforge.com/minecraft/mc-mods/prefab",
+    "image": "/images/mods/default.jpg"
+  },
+  {
+    "id": 27,
+    "name": "YUNG's API (Forge)",
+    "author": "YUNGNICKYOUNG",
+    "category": "utility",
+    "link": "https://www.curseforge.com/minecraft/mc-mods/yungs-api",
+    "image": "/images/mods/default.jpg"
+  },
+  {
+    "id": 28,
+    "name": "Iceberg [Neo/Forge]",
+    "author": "Grend_G",
+    "category": "utility",
+    "link": "https://www.curseforge.com/minecraft/mc-mods/iceberg",
+    "image": "/images/mods/default.jpg"
+  },
+  {
+    "id": 29,
+    "name": "Twilight Forest Bosses Resurrection",
+    "author": "Niketats_live",
+    "category": "utility",
+    "link": "https://www.curseforge.com/minecraft/mc-mods/tw-resurrection",
+    "image": "/images/mods/default.jpg"
+  },
+  {
+    "id": 30,
+    "name": "Artifacts",
+    "author": "ochotonida",
+    "category": "utility",
+    "link": "https://www.curseforge.com/minecraft/mc-mods/artifacts",
+    "image": "/images/mods/default.jpg"
+  },
+  {
+    "id": 31,
+    "name": "Cloth Config API (Fabric/Forge/NeoForge)",
+    "author": "shedaniel",
+    "category": "utility",
+    "link": "https://www.curseforge.com/minecraft/mc-mods/cloth-config",
+    "image": "/images/mods/default.jpg"
+  },
+  {
+    "id": 32,
+    "name": "RightClickHarvest",
+    "author": "jamalam360",
+    "category": "utility",
+    "link": "https://www.curseforge.com/minecraft/mc-mods/rightclickharvest",
+    "image": "/images/mods/default.jpg"
+  },
+  {
+    "id": 33,
+    "name": "Sit",
+    "author": "bl4ckscor3",
+    "category": "utility",
+    "link": "https://www.curseforge.com/minecraft/mc-mods/sit",
+    "image": "/images/mods/default.jpg"
+  },
+  {
+    "id": 34,
+    "name": "Silent Lib (silentlib)",
+    "author": "SilentChaos512",
+    "category": "utility",
+    "link": "https://www.curseforge.com/minecraft/mc-mods/silent-lib",
+    "image": "/images/mods/default.jpg"
+  },
+  {
+    "id": 35,
+    "name": "spark",
+    "author": "Iucko",
+    "category": "utility",
+    "link": "https://www.curseforge.com/minecraft/mc-mods/spark",
+    "image": "/images/mods/default.jpg"
+  },
+  {
+    "id": 36,
+    "name": "Oh The Biomes You'll Go",
+    "author": "AOCAWOL",
+    "category": "adventure",
+    "link": "https://www.curseforge.com/minecraft/mc-mods/oh-the-biomes-youll-go",
+    "image": "/images/mods/default.jpg"
+  },
+  {
+    "id": 37,
+    "name": "Aether Delight (A Farmer's Delight Add-on)",
+    "author": "nocubeyt",
+    "category": "utility",
+    "link": "https://www.curseforge.com/minecraft/mc-mods/aether-delight",
+    "image": "/images/mods/default.jpg"
+  },
+  {
+    "id": 38,
+    "name": "Just Enough Items (JEI)",
+    "author": "mezz",
+    "category": "utility",
+    "link": "https://www.curseforge.com/minecraft/mc-mods/jei",
+    "image": "/images/mods/default.jpg"
+  },
+  {
+    "id": 39,
+    "name": "Brute force Rendering Culling",
+    "author": "RogoShum",
+    "category": "utility",
+    "link": "https://www.curseforge.com/minecraft/mc-mods/brute-force-rendering-culling",
+    "image": "/images/mods/default.jpg"
+  },
+  {
+    "id": 40,
+    "name": "Just Leveling [Forge]",
+    "author": "Dplayend",
+    "category": "utility",
+    "link": "https://www.curseforge.com/minecraft/mc-mods/just-leveling",
+    "image": "/images/mods/default.jpg"
+  },
+  {
+    "id": 41,
+    "name": "CullLessLeaves Reforged (Unofficial)",
+    "author": "ccr4ft3r",
+    "category": "utility",
+    "link": "https://www.curseforge.com/minecraft/mc-mods/culllessleaves-reforged",
+    "image": "/images/mods/default.jpg"
+  },
+  {
+    "id": 42,
+    "name": "What Are They Up To (Watut)",
+    "author": "Corosus",
+    "category": "utility",
+    "link": "https://www.curseforge.com/minecraft/mc-mods/what-are-they-up-to",
+    "image": "/images/mods/default.jpg"
+  },
+  {
+    "id": 43,
+    "name": "L_Ender 's Cataclysm",
+    "author": "mcl_ender",
+    "category": "utility",
+    "link": "https://www.curseforge.com/minecraft/mc-mods/lendercataclysm",
+    "image": "/images/mods/default.jpg"
+  },
+  {
+    "id": 44,
+    "name": "Create Stuff & Additions",
+    "author": "Furti_Two",
+    "category": "tech",
+    "link": "https://www.curseforge.com/minecraft/mc-mods/create-stuff-additions",
+    "image": "/images/mods/default.jpg"
+  },
+  {
+    "id": 45,
+    "name": "Scaling Health",
+    "author": "SilentChaos512",
+    "category": "utility",
+    "link": "https://www.curseforge.com/minecraft/mc-mods/scaling-health",
+    "image": "/images/mods/default.jpg"
+  },
+  {
+    "id": 46,
+    "name": "End Remastered [NeoForge/Fabric]",
+    "author": "jack_bagel",
+    "category": "utility",
+    "link": "https://www.curseforge.com/minecraft/mc-mods/endremastered",
+    "image": "/images/mods/default.jpg"
+  },
+  {
+    "id": 47,
+    "name": "Bocchium",
+    "author": "pOtAto__bOy",
+    "category": "utility",
+    "link": "https://www.curseforge.com/minecraft/mc-mods/bocchium",
+    "image": "/images/mods/default.jpg"
+  },
+  {
+    "id": 48,
+    "name": "Spice of Life: Sweet Potato Edition",
+    "author": "tarinoita",
+    "category": "utility",
+    "link": "https://www.curseforge.com/minecraft/mc-mods/spice-of-life-sweet-potato-edition",
+    "image": "/images/mods/default.jpg"
+  },
+  {
+    "id": 49,
+    "name": "Jump Over Fences",
+    "author": "Kreezxil",
+    "category": "utility",
+    "link": "https://www.curseforge.com/minecraft/mc-mods/jump-over-fences-forge",
+    "image": "/images/mods/default.jpg"
+  },
+  {
+    "id": 50,
+    "name": "Melody",
+    "author": "Keksuccino",
+    "category": "utility",
+    "link": "https://www.curseforge.com/minecraft/mc-mods/melody",
+    "image": "/images/mods/default.jpg"
+  },
+  {
+    "id": 51,
+    "name": "Create",
+    "author": "simibubi",
+    "category": "tech",
+    "link": "https://www.curseforge.com/minecraft/mc-mods/create",
+    "image": "/images/mods/default.jpg"
+  },
+  {
+    "id": 52,
+    "name": "Lodestone",
+    "author": "sammysemicolon",
+    "category": "utility",
+    "link": "https://www.curseforge.com/minecraft/mc-mods/lodestone",
+    "image": "/images/mods/default.jpg"
+  },
+  {
+    "id": 53,
+    "name": "Combat Roll [Fabric & Forge]",
+    "author": "daedelus_dev",
+    "category": "utility",
+    "link": "https://www.curseforge.com/minecraft/mc-mods/combat-roll",
+    "image": "/images/mods/default.jpg"
+  },
+  {
+    "id": 54,
+    "name": "More Dragon Eggs",
+    "author": "Darkere",
+    "category": "utility",
+    "link": "https://www.curseforge.com/minecraft/mc-mods/more-dragon-eggs",
+    "image": "/images/mods/default.jpg"
+  },
+  {
+    "id": 55,
+    "name": "Goblin Traders",
+    "author": "MrCrayfish",
+    "category": "utility",
+    "link": "https://www.curseforge.com/minecraft/mc-mods/goblin-traders",
+    "image": "/images/mods/default.jpg"
+  },
+  {
+    "id": 56,
+    "name": "Caelus API (Forge/NeoForge)",
+    "author": "TheIllusiveC4",
+    "category": "utility",
+    "link": "https://www.curseforge.com/minecraft/mc-mods/caelus",
+    "image": "/images/mods/default.jpg"
+  },
+  {
+    "id": 57,
+    "name": "Too Much Bosses",
+    "author": "cookie5w",
+    "category": "utility",
+    "link": "https://www.curseforge.com/minecraft/mc-mods/too-much-bosses",
+    "image": "/images/mods/default.jpg"
+  },
+  {
+    "id": 58,
+    "name": "Dungeon Crawl",
+    "author": "xiroc_",
+    "category": "adventure",
+    "link": "https://www.curseforge.com/minecraft/mc-mods/dungeon-crawl",
+    "image": "/images/mods/default.jpg"
+  },
+  {
+    "id": 59,
+    "name": "Unusual End",
+    "author": "Sweetygamer",
+    "category": "utility",
+    "link": "https://www.curseforge.com/minecraft/mc-mods/unusual-end",
+    "image": "/images/mods/default.jpg"
+  },
+  {
+    "id": 60,
+    "name": "CoroUtil",
+    "author": "Corosus",
+    "category": "utility",
+    "link": "https://www.curseforge.com/minecraft/mc-mods/coroutil",
+    "image": "/images/mods/default.jpg"
+  },
+  {
+    "id": 61,
+    "name": "Loot Integrations",
+    "author": "someaddon",
+    "category": "utility",
+    "link": "https://www.curseforge.com/minecraft/mc-mods/loot-integrations",
+    "image": "/images/mods/default.jpg"
+  },
+  {
+    "id": 62,
+    "name": "Auto Leveling",
+    "author": "Daripher",
+    "category": "utility",
+    "link": "https://www.curseforge.com/minecraft/mc-mods/auto-leveling",
+    "image": "/images/mods/default.jpg"
+  },
+  {
+    "id": 63,
+    "name": "KubeJS Mekanism",
+    "author": "LatvianModder",
+    "category": "tech",
+    "link": "https://www.curseforge.com/minecraft/mc-mods/kubejs-mekanism",
+    "image": "/images/mods/default.jpg"
+  },
+  {
+    "id": 64,
+    "name": "Easy Villagers",
+    "author": "henkelmax",
+    "category": "utility",
+    "link": "https://www.curseforge.com/minecraft/mc-mods/easy-villagers",
+    "image": "/images/mods/default.jpg"
+  },
+  {
+    "id": 65,
+    "name": "Relics",
+    "author": "SSKirillSS",
+    "category": "utility",
+    "link": "https://www.curseforge.com/minecraft/mc-mods/relics-mod",
+    "image": "/images/mods/default.jpg"
+  },
+  {
+    "id": 66,
+    "name": "Illage and Spillage",
+    "author": "this_is_stupid123",
+    "category": "utility",
+    "link": "https://www.curseforge.com/minecraft/mc-mods/illage-and-spillage",
+    "image": "/images/mods/default.jpg"
+  },
+  {
+    "id": 67,
+    "name": "Enchant Icons",
+    "author": "CountXD",
+    "category": "utility",
+    "link": "https://www.curseforge.com/minecraft/texture-packs/enchant-icons-countxd",
+    "image": "/images/mods/default.jpg"
+  },
+  {
+    "id": 68,
+    "name": "It Takes a Pillage",
+    "author": "izofar",
+    "category": "utility",
+    "link": "https://www.curseforge.com/minecraft/mc-mods/it-takes-a-pillage",
+    "image": "/images/mods/default.jpg"
+  },
+  {
+    "id": 69,
+    "name": "Lionfish API",
+    "author": "mcl_ender",
+    "category": "utility",
+    "link": "https://www.curseforge.com/minecraft/mc-mods/lionfish-api",
+    "image": "/images/mods/default.jpg"
+  },
+  {
+    "id": 70,
+    "name": "Visual Workbench",
+    "author": "Fuzs",
+    "category": "utility",
+    "link": "https://www.curseforge.com/minecraft/mc-mods/visual-workbench",
+    "image": "/images/mods/default.jpg"
+  },
+  {
+    "id": 71,
+    "name": "Twigs",
+    "author": "ninnih_",
+    "category": "utility",
+    "link": "https://www.curseforge.com/minecraft/mc-mods/twigs",
+    "image": "/images/mods/default.jpg"
+  },
+  {
+    "id": 72,
+    "name": "[Let's Do] API",
+    "author": "Cristelknight",
+    "category": "utility",
+    "link": "https://www.curseforge.com/minecraft/mc-mods/do-api",
+    "image": "/images/mods/default.jpg"
+  },
+  {
+    "id": 73,
+    "name": "FastBoot",
+    "author": "dnlayu",
+    "category": "utility",
+    "link": "https://www.curseforge.com/minecraft/mc-mods/fastboot",
+    "image": "/images/mods/default.jpg"
+  },
+  {
+    "id": 74,
+    "name": "Bossominium",
+    "author": "T3kn0",
+    "category": "utility",
+    "link": "https://www.curseforge.com/minecraft/mc-mods/bossominium",
+    "image": "/images/mods/default.jpg"
+  },
+  {
+    "id": 75,
+    "name": "Farmer's Delight",
+    "author": "vectorwing",
+    "category": "utility",
+    "link": "https://www.curseforge.com/minecraft/mc-mods/farmers-delight",
+    "image": "/images/mods/default.jpg"
+  },
+  {
+    "id": 76,
+    "name": "OctoLib",
+    "author": "SSKirillSS",
+    "category": "utility",
+    "link": "https://www.curseforge.com/minecraft/mc-mods/octo-lib",
+    "image": "/images/mods/default.jpg"
+  },
+  {
+    "id": 77,
+    "name": "LibX",
+    "author": "noeppi_noeppi",
+    "category": "utility",
+    "link": "https://www.curseforge.com/minecraft/mc-mods/libx",
+    "image": "/images/mods/default.jpg"
+  },
+  {
+    "id": 78,
+    "name": "FTB Ranks (Forge)",
+    "author": "FTB",
+    "category": "utility",
+    "link": "https://www.curseforge.com/minecraft/mc-mods/ftb-ranks-forge",
+    "image": "/images/mods/default.jpg"
+  },
+  {
+    "id": 79,
+    "name": "Enchantment Transfer (Fabric/Forge)",
+    "author": "treekicker4",
+    "category": "utility",
+    "link": "https://www.curseforge.com/minecraft/mc-mods/enchantment-transfer",
+    "image": "/images/mods/default.jpg"
+  },
+  {
+    "id": 80,
+    "name": "Polymorph (Fabric/Forge/Quilt)",
+    "author": "TheIllusiveC4",
+    "category": "utility",
+    "link": "https://www.curseforge.com/minecraft/mc-mods/polymorph",
+    "image": "/images/mods/default.jpg"
+  },
+  {
+    "id": 81,
+    "name": "Iron Chests",
+    "author": "ProgWML6",
+    "category": "utility",
+    "link": "https://www.curseforge.com/minecraft/mc-mods/iron-chests",
+    "image": "/images/mods/default.jpg"
+  },
+  {
+    "id": 82,
+    "name": "Ksyxis",
+    "author": "VidTu",
+    "category": "utility",
+    "link": "https://www.curseforge.com/minecraft/mc-mods/ksyxis",
+    "image": "/images/mods/default.jpg"
+  },
+  {
+    "id": 83,
+    "name": "Create Deco",
+    "author": "talrey",
+    "category": "tech",
+    "link": "https://www.curseforge.com/minecraft/mc-mods/create-deco",
+    "image": "/images/mods/default.jpg"
+  },
+  {
+    "id": 84,
+    "name": "HammerLib",
+    "author": "Zeith",
+    "category": "utility",
+    "link": "https://www.curseforge.com/minecraft/mc-mods/hammer-lib",
+    "image": "/images/mods/default.jpg"
+  },
+  {
+    "id": 85,
+    "name": "Mekanism Additions",
+    "author": "bradyaidanc",
+    "category": "tech",
+    "link": "https://www.curseforge.com/minecraft/mc-mods/mekanism-additions",
+    "image": "/images/mods/default.jpg"
+  },
+  {
+    "id": 86,
+    "name": "Monsters Level Up",
+    "author": "Mortius",
+    "category": "utility",
+    "link": "https://www.curseforge.com/minecraft/mc-mods/monsters-level-up",
+    "image": "/images/mods/default.jpg"
+  },
+  {
+    "id": 87,
+    "name": "Integrated Dungeons and Structures",
+    "author": "CraisinLord",
+    "category": "adventure",
+    "link": "https://www.curseforge.com/minecraft/mc-mods/idas",
+    "image": "/images/mods/default.jpg"
+  },
+  {
+    "id": 88,
+    "name": "Neko's Enchanted Books",
+    "author": "Nekomaster1000",
+    "category": "utility",
+    "link": "https://www.curseforge.com/minecraft/mc-mods/nekos-enchanted-books",
+    "image": "/images/mods/default.jpg"
+  },
+  {
+    "id": 89,
+    "name": "FastFurnace",
+    "author": "Shadows_of_Fire",
+    "category": "utility",
+    "link": "https://www.curseforge.com/minecraft/mc-mods/fastfurnace",
+    "image": "/images/mods/default.jpg"
+  },
+  {
+    "id": 90,
+    "name": "FastSuite",
+    "author": "Shadows_of_Fire",
+    "category": "utility",
+    "link": "https://www.curseforge.com/minecraft/mc-mods/fastsuite",
+    "image": "/images/mods/default.jpg"
+  },
+  {
+    "id": 91,
+    "name": "Spice of Life: Carrot Edition",
+    "author": "lordcazsius",
+    "category": "utility",
+    "link": "https://www.curseforge.com/minecraft/mc-mods/spice-of-life-carrot-edition",
+    "image": "/images/mods/default.jpg"
+  },
+  {
+    "id": 92,
+    "name": "SwingThroughGrass",
+    "author": "exidex",
+    "category": "utility",
+    "link": "https://www.curseforge.com/minecraft/mc-mods/swingthroughgrass",
+    "image": "/images/mods/default.jpg"
+  },
+  {
+    "id": 93,
+    "name": "Bigger Stacks",
+    "author": "thanksihadtosignupforthis",
+    "category": "utility",
+    "link": "https://www.curseforge.com/minecraft/mc-mods/bigger-stacks",
+    "image": "/images/mods/default.jpg"
+  },
+  {
+    "id": 94,
+    "name": "Nether's Delight",
+    "author": "lumpazl",
+    "category": "utility",
+    "link": "https://www.curseforge.com/minecraft/mc-mods/nethers-delight",
+    "image": "/images/mods/default.jpg"
+  },
+  {
+    "id": 95,
+    "name": "Serene Seasons",
+    "author": "TheAdubbz",
+    "category": "utility",
+    "link": "https://www.curseforge.com/minecraft/mc-mods/serene-seasons",
+    "image": "/images/mods/default.jpg"
+  },
+  {
+    "id": 96,
+    "name": "Create Crafts & Additions",
+    "author": "MRHminer",
+    "category": "tech",
+    "link": "https://www.curseforge.com/minecraft/mc-mods/createaddition",
+    "image": "/images/mods/default.jpg"
+  },
+  {
+    "id": 97,
+    "name": "Quark",
+    "author": "Vazkii",
+    "category": "utility",
+    "link": "https://www.curseforge.com/minecraft/mc-mods/quark",
+    "image": "/images/mods/default.jpg"
+  },
+  {
+    "id": 98,
+    "name": "Clumps",
+    "author": "Jaredlll08",
+    "category": "utility",
+    "link": "https://www.curseforge.com/minecraft/mc-mods/clumps",
+    "image": "/images/mods/default.jpg"
+  },
+  {
+    "id": 99,
+    "name": "Pehkui",
+    "author": "Virtuoel",
+    "category": "utility",
+    "link": "https://www.curseforge.com/minecraft/mc-mods/pehkui",
+    "image": "/images/mods/default.jpg"
+  },
+  {
+    "id": 100,
+    "name": "MNS - Moog's Nether Structures",
+    "author": "finndog_123",
+    "category": "adventure",
+    "link": "https://www.curseforge.com/minecraft/mc-mods/mns-moogs-nether-structures",
+    "image": "/images/mods/default.jpg"
+  },
+  {
+    "id": 101,
+    "name": "Fast Leaf Decay",
+    "author": "olafskiii",
+    "category": "utility",
+    "link": "https://www.curseforge.com/minecraft/mc-mods/fast-leaf-decay",
+    "image": "/images/mods/default.jpg"
+  },
+  {
+    "id": 102,
+    "name": "Load My Chunks",
+    "author": "Drathonix",
+    "category": "utility",
+    "link": "https://www.curseforge.com/minecraft/mc-mods/load-my-chunks",
+    "image": "/images/mods/default.jpg"
+  },
+  {
+    "id": 103,
+    "name": "Json Things",
+    "author": "gigaherz",
+    "category": "utility",
+    "link": "https://www.curseforge.com/minecraft/mc-mods/json-things",
+    "image": "/images/mods/default.jpg"
+  },
+  {
+    "id": 104,
+    "name": "Realm RPG: Dragon Wyrms",
+    "author": "nocubeyt",
+    "category": "utility",
+    "link": "https://www.curseforge.com/minecraft/mc-mods/realm-rpg-dragon-wyrms",
+    "image": "/images/mods/default.jpg"
+  },
+  {
+    "id": 105,
+    "name": "Legacy: [Let's Do] Bakery",
+    "author": "satisfy",
+    "category": "utility",
+    "link": "https://www.curseforge.com/minecraft/mc-mods/lets-do-bakery",
+    "image": "/images/mods/default.jpg"
+  },
+  {
+    "id": 106,
+    "name": "Waystones",
+    "author": "BlayTheNinth",
+    "category": "utility",
+    "link": "https://www.curseforge.com/minecraft/mc-mods/waystones",
+    "image": "/images/mods/default.jpg"
+  },
+  {
+    "id": 107,
+    "name": "Eclectic Trove (Legendary Tooltips)",
+    "author": "Grend_G",
+    "category": "utility",
+    "link": "https://www.curseforge.com/minecraft/texture-packs/eclectic-trove-legendary-tooltips",
+    "image": "/images/mods/default.jpg"
+  },
+  {
+    "id": 108,
+    "name": "FancyMenu",
+    "author": "Keksuccino",
+    "category": "utility",
+    "link": "https://www.curseforge.com/minecraft/mc-mods/fancymenu",
+    "image": "/images/mods/default.jpg"
+  },
+  {
+    "id": 109,
+    "name": "Tinkers' Katanas",
+    "author": "Xenon372",
+    "category": "tech",
+    "link": "https://www.curseforge.com/minecraft/mc-mods/tinkers-katanas",
+    "image": "/images/mods/default.jpg"
+  },
+  {
+    "id": 110,
+    "name": "Noisium (Unofficial port)",
+    "author": "coco_31240",
+    "category": "utility",
+    "link": "https://www.curseforge.com/minecraft/mc-mods/noisium-unofficial-forge-port",
+    "image": "/images/mods/default.jpg"
+  },
+  {
+    "id": 111,
+    "name": "Moonlight Lib",
+    "author": "MehVahdJukaar",
+    "category": "utility",
+    "link": "https://www.curseforge.com/minecraft/mc-mods/selene",
+    "image": "/images/mods/default.jpg"
+  },
+  {
+    "id": 112,
+    "name": "Realm RPG: Sea Dwellers",
+    "author": "nocubeyt",
+    "category": "utility",
+    "link": "https://www.curseforge.com/minecraft/mc-mods/nocubes-sea-dwellers",
+    "image": "/images/mods/default.jpg"
+  },
+  {
+    "id": 113,
+    "name": "Just Enough Resources (JER)",
+    "author": "way2muchnoise",
+    "category": "utility",
+    "link": "https://www.curseforge.com/minecraft/mc-mods/just-enough-resources-jer",
+    "image": "/images/mods/default.jpg"
+  },
+  {
+    "id": 114,
+    "name": "Chunky (Forge/NeoForge)",
+    "author": "pop4959",
+    "category": "utility",
+    "link": "https://www.curseforge.com/minecraft/mc-mods/chunky-pregenerator-forge",
+    "image": "/images/mods/default.jpg"
+  },
+  {
+    "id": 115,
+    "name": "Farmers Structures",
+    "author": "BlackAuresArt",
+    "category": "adventure",
+    "link": "https://www.curseforge.com/minecraft/mc-mods/farmers-structures",
+    "image": "/images/mods/default.jpg"
+  },
+  {
+    "id": 116,
+    "name": "TrashSlot",
+    "author": "BlayTheNinth",
+    "category": "utility",
+    "link": "https://www.curseforge.com/minecraft/mc-mods/trashslot",
+    "image": "/images/mods/default.jpg"
+  },
+  {
+    "id": 117,
+    "name": "Rechiseled",
+    "author": "SuperMartijn642",
+    "category": "utility",
+    "link": "https://www.curseforge.com/minecraft/mc-mods/rechiseled",
+    "image": "/images/mods/default.jpg"
+  },
+  {
+    "id": 118,
+    "name": "Not Enough Recipe Book [NERB]",
+    "author": "SSKirillSS",
+    "category": "utility",
+    "link": "https://www.curseforge.com/minecraft/mc-mods/notenoughrecipebook",
+    "image": "/images/mods/default.jpg"
+  },
+  {
+    "id": 119,
+    "name": "Better Fps - Render Distance[Forge]",
+    "author": "someaddon",
+    "category": "optimization",
+    "link": "https://www.curseforge.com/minecraft/mc-mods/better-fps-render-distance",
+    "image": "/images/mods/default.jpg"
+  },
+  {
+    "id": 120,
+    "name": "Upgrade Aquatic",
+    "author": "TeamAbnormals",
+    "category": "utility",
+    "link": "https://www.curseforge.com/minecraft/mc-mods/upgrade-aquatic",
+    "image": "/images/mods/default.jpg"
+  },
+  {
+    "id": 121,
+    "name": "Dragon Enchants",
+    "author": "FavouriteDragon",
+    "category": "utility",
+    "link": "https://www.curseforge.com/minecraft/mc-mods/dragon-enchants",
+    "image": "/images/mods/default.jpg"
+  },
+  {
+    "id": 122,
+    "name": "Mouse Tweaks",
+    "author": "YaLTeR",
+    "category": "utility",
+    "link": "https://www.curseforge.com/minecraft/mc-mods/mouse-tweaks",
+    "image": "/images/mods/default.jpg"
+  },
+  {
+    "id": 123,
+    "name": "Mekanism Generators",
+    "author": "bradyaidanc",
+    "category": "tech",
+    "link": "https://www.curseforge.com/minecraft/mc-mods/mekanism-generators",
+    "image": "/images/mods/default.jpg"
+  },
+  {
+    "id": 124,
+    "name": "FTB Teams (Forge)",
+    "author": "FTB",
+    "category": "utility",
+    "link": "https://www.curseforge.com/minecraft/mc-mods/ftb-teams-forge",
+    "image": "/images/mods/default.jpg"
+  },
+  {
+    "id": 125,
+    "name": "YUNG's Extras (Forge)",
+    "author": "YUNGNICKYOUNG",
+    "category": "utility",
+    "link": "https://www.curseforge.com/minecraft/mc-mods/yungs-extras",
+    "image": "/images/mods/default.jpg"
+  },
+  {
+    "id": 126,
+    "name": "DarkTimer - RPG Clear Entity Lag",
+    "author": "GamerPotion",
+    "category": "utility",
+    "link": "https://www.curseforge.com/minecraft/mc-mods/darktimer",
+    "image": "/images/mods/default.jpg"
+  },
+  {
+    "id": 127,
+    "name": "ServerCore",
+    "author": "Wesley8081",
+    "category": "utility",
+    "link": "https://www.curseforge.com/minecraft/mc-mods/servercore",
+    "image": "/images/mods/default.jpg"
+  },
+  {
+    "id": 128,
+    "name": "bad packets",
+    "author": "badasintended",
+    "category": "utility",
+    "link": "https://www.curseforge.com/minecraft/mc-mods/badpackets",
+    "image": "/images/mods/default.jpg"
+  },
+  {
+    "id": 129,
+    "name": "Macaw's Lights and Lamps",
+    "author": "sketch_macaw",
+    "category": "utility",
+    "link": "https://www.curseforge.com/minecraft/mc-mods/macaws-lights-and-lamps",
+    "image": "/images/mods/default.jpg"
+  },
+  {
+    "id": 130,
+    "name": "FTB Quests (Forge)",
+    "author": "FTB",
+    "category": "utility",
+    "link": "https://www.curseforge.com/minecraft/mc-mods/ftb-quests-forge",
+    "image": "/images/mods/default.jpg"
+  },
+  {
+    "id": 131,
+    "name": "Loot Integrations: When Dungeons Arise & Co",
+    "author": "someaddon",
+    "category": "adventure",
+    "link": "https://www.curseforge.com/minecraft/mc-mods/loot-integrations-when-dungeons-arise",
+    "image": "/images/mods/default.jpg"
+  },
+  {
+    "id": 132,
+    "name": "Jade 🔍",
+    "author": "Snownee",
+    "category": "utility",
+    "link": "https://www.curseforge.com/minecraft/mc-mods/jade",
+    "image": "/images/mods/default.jpg"
+  },
+  {
+    "id": 133,
+    "name": "Awesome Dungeon The End edition 📦",
+    "author": "jtl_elisa",
+    "category": "adventure",
+    "link": "https://www.curseforge.com/minecraft/texture-packs/awesome-dungeon-the-end-edition-datapack",
+    "image": "/images/mods/default.jpg"
+  },
+  {
+    "id": 134,
+    "name": "When Dungeons Arise - Seven Seas",
+    "author": "Aureljz",
+    "category": "adventure",
+    "link": "https://www.curseforge.com/minecraft/mc-mods/when-dungeons-arise-seven-seas",
+    "image": "/images/mods/default.jpg"
+  },
+  {
+    "id": 135,
+    "name": "Alex's Delight",
+    "author": "Baisylia",
+    "category": "utility",
+    "link": "https://www.curseforge.com/minecraft/mc-mods/alexs-delight",
+    "image": "/images/mods/default.jpg"
+  },
+  {
+    "id": 136,
+    "name": "Better Villages - Forge",
+    "author": "jtl_elisa",
+    "category": "utility",
+    "link": "https://www.curseforge.com/minecraft/mc-mods/better-village-forge",
+    "image": "/images/mods/default.jpg"
+  },
+  {
+    "id": 137,
+    "name": "Item Highlighter [Neo/Forge]",
+    "author": "Grend_G",
+    "category": "utility",
+    "link": "https://www.curseforge.com/minecraft/mc-mods/item-highlighter",
+    "image": "/images/mods/default.jpg"
+  },
+  {
+    "id": 138,
+    "name": "Cupboard",
+    "author": "someaddon",
+    "category": "utility",
+    "link": "https://www.curseforge.com/minecraft/mc-mods/cupboard",
+    "image": "/images/mods/default.jpg"
+  },
+  {
+    "id": 139,
+    "name": "Origins: Accessibilities",
+    "author": "DragonsPlus",
+    "category": "utility",
+    "link": "https://www.curseforge.com/minecraft/mc-mods/origins-accessibilities",
+    "image": "/images/mods/default.jpg"
+  },
+  {
+    "id": 140,
+    "name": "Easy NPC",
+    "author": "Kaworru",
+    "category": "utility",
+    "link": "https://www.curseforge.com/minecraft/mc-mods/easy-npc",
+    "image": "/images/mods/default.jpg"
+  },
+  {
+    "id": 141,
+    "name": "Realm RPG: Fallen Adventurers",
+    "author": "nocubeyt",
+    "category": "adventure",
+    "link": "https://www.curseforge.com/minecraft/mc-mods/realm-rpg-fallen-adventurers",
+    "image": "/images/mods/default.jpg"
+  },
+  {
+    "id": 142,
+    "name": "Resourceful Config",
+    "author": "ThatGravyBoat",
+    "category": "utility",
+    "link": "https://www.curseforge.com/minecraft/mc-mods/resourceful-config",
+    "image": "/images/mods/default.jpg"
+  },
+  {
+    "id": 143,
+    "name": "Patchouli",
+    "author": "Vazkii",
+    "category": "utility",
+    "link": "https://www.curseforge.com/minecraft/mc-mods/patchouli",
+    "image": "/images/mods/default.jpg"
+  },
+  {
+    "id": 144,
+    "name": "MythicBotany",
+    "author": "noeppi_noeppi",
+    "category": "utility",
+    "link": "https://www.curseforge.com/minecraft/mc-mods/mythicbotany",
+    "image": "/images/mods/default.jpg"
+  },
+  {
+    "id": 145,
+    "name": "Magic Origins",
+    "author": "the_blue_shark",
+    "category": "magic",
+    "link": "https://www.curseforge.com/minecraft/mc-mods/magic-origins",
+    "image": "/images/mods/default.jpg"
+  },
+  {
+    "id": 146,
+    "name": "Improvable Skills 3",
+    "author": "Zeith",
+    "category": "utility",
+    "link": "https://www.curseforge.com/minecraft/mc-mods/improvable-skills",
+    "image": "/images/mods/default.jpg"
+  },
+  {
+    "id": 147,
+    "name": "YUNG's Better Nether Fortresses (Forge)",
+    "author": "YUNGNICKYOUNG",
+    "category": "utility",
+    "link": "https://www.curseforge.com/minecraft/mc-mods/yungs-better-nether-fortresses",
+    "image": "/images/mods/default.jpg"
+  },
+  {
+    "id": 148,
+    "name": "Bosses of Mass Destruction [Forge | NeoForge]",
+    "author": "Cerbon",
+    "category": "utility",
+    "link": "https://www.curseforge.com/minecraft/mc-mods/bosses-of-mass-destruction-forge",
+    "image": "/images/mods/default.jpg"
+  },
+  {
+    "id": 149,
+    "name": "Realm RPG: Pots & Mimics",
+    "author": "nocubeyt",
+    "category": "utility",
+    "link": "https://www.curseforge.com/minecraft/mc-mods/pots-and-mimics-rpg",
+    "image": "/images/mods/default.jpg"
+  },
+  {
+    "id": 150,
+    "name": "FerriteCore ((Neo)Forge)",
+    "author": "malte0811",
+    "category": "utility",
+    "link": "https://www.curseforge.com/minecraft/mc-mods/ferritecore",
+    "image": "/images/mods/default.jpg"
+  },
+  {
+    "id": 151,
+    "name": "YUNG's Better Dungeons (Forge)",
+    "author": "YUNGNICKYOUNG",
+    "category": "adventure",
+    "link": "https://www.curseforge.com/minecraft/mc-mods/yungs-better-dungeons",
+    "image": "/images/mods/default.jpg"
+  },
+  {
+    "id": 152,
+    "name": "Max Health Fix",
+    "author": "DarkhaxDev",
+    "category": "utility",
+    "link": "https://www.curseforge.com/minecraft/mc-mods/max-health-fix",
+    "image": "/images/mods/default.jpg"
+  },
+  {
+    "id": 153,
+    "name": "Chat Heads",
+    "author": "dzwdz",
+    "category": "utility",
+    "link": "https://www.curseforge.com/minecraft/mc-mods/chat-heads",
+    "image": "/images/mods/default.jpg"
+  },
+  {
+    "id": 154,
+    "name": "Canary",
+    "author": "AbdElAziz333",
+    "category": "utility",
+    "link": "https://www.curseforge.com/minecraft/mc-mods/canary",
+    "image": "/images/mods/default.jpg"
+  },
+  {
+    "id": 155,
+    "name": "Achievements Optimizer",
+    "author": "big_energy",
+    "category": "optimization",
+    "link": "https://www.curseforge.com/minecraft/mc-mods/achievements-optimizer",
+    "image": "/images/mods/default.jpg"
+  },
+  {
+    "id": 156,
+    "name": "Enderman Overhaul",
+    "author": "joosh_7889",
+    "category": "utility",
+    "link": "https://www.curseforge.com/minecraft/mc-mods/enderman-overhaul",
+    "image": "/images/mods/default.jpg"
+  },
+  {
+    "id": 157,
+    "name": "FPS Reducer",
+    "author": "bre2el",
+    "category": "optimization",
+    "link": "https://www.curseforge.com/minecraft/mc-mods/fps-reducer",
+    "image": "/images/mods/default.jpg"
+  },
+  {
+    "id": 158,
+    "name": "BuildPaste - Instant Structures",
+    "author": "mistrx_",
+    "category": "adventure",
+    "link": "https://www.curseforge.com/minecraft/mc-mods/buildpaste",
+    "image": "/images/mods/default.jpg"
+  },
+  {
+    "id": 159,
+    "name": "Medieval Paintings",
+    "author": "The_Great_ZIN",
+    "category": "utility",
+    "link": "https://www.curseforge.com/minecraft/mc-mods/medieval-paintings",
+    "image": "/images/mods/default.jpg"
+  },
+  {
+    "id": 160,
+    "name": "Botania",
+    "author": "Vazkii",
+    "category": "magic",
+    "link": "https://www.curseforge.com/minecraft/mc-mods/botania",
+    "image": "/images/mods/default.jpg"
+  },
+  {
+    "id": 161,
+    "name": "Delightful",
+    "author": "brnbrd",
+    "category": "utility",
+    "link": "https://www.curseforge.com/minecraft/mc-mods/delightful",
+    "image": "/images/mods/default.jpg"
+  },
+  {
+    "id": 162,
+    "name": "Better Third Person",
+    "author": "Socolio",
+    "category": "utility",
+    "link": "https://www.curseforge.com/minecraft/mc-mods/better-third-person",
+    "image": "/images/mods/default.jpg"
+  },
+  {
+    "id": 163,
+    "name": "Structure Layout Optimizer",
+    "author": "telepathicgrunt",
+    "category": "adventure",
+    "link": "https://www.curseforge.com/minecraft/mc-mods/structure-layout-optimizer",
+    "image": "/images/mods/default.jpg"
+  },
+  {
+    "id": 164,
+    "name": "YUNG's Better Jungle Temples (Forge)",
+    "author": "YUNGNICKYOUNG",
+    "category": "utility",
+    "link": "https://www.curseforge.com/minecraft/mc-mods/yungs-better-jungle-temples",
+    "image": "/images/mods/default.jpg"
+  },
+  {
+    "id": 165,
+    "name": "Alternate Current",
+    "author": "SpaceWalkerRS",
+    "category": "utility",
+    "link": "https://www.curseforge.com/minecraft/mc-mods/alternate-current",
+    "image": "/images/mods/default.jpg"
+  },
+  {
+    "id": 166,
+    "name": "Simply Swords [Fabric & Forge]",
+    "author": "sweenuss",
+    "category": "utility",
+    "link": "https://www.curseforge.com/minecraft/mc-mods/simply-swords",
+    "image": "/images/mods/default.jpg"
+  },
+  {
+    "id": 167,
+    "name": "Enchantment Descriptions",
+    "author": "DarkhaxDev",
+    "category": "utility",
+    "link": "https://www.curseforge.com/minecraft/mc-mods/enchantment-descriptions",
+    "image": "/images/mods/default.jpg"
+  },
+  {
+    "id": 168,
+    "name": "DespawnTweaker",
+    "author": "pOtAto__bOy",
+    "category": "utility",
+    "link": "https://www.curseforge.com/minecraft/mc-mods/despawntweaker",
+    "image": "/images/mods/default.jpg"
+  },
+  {
+    "id": 169,
+    "name": "Pick Up Notifier [Forge & Fabric]",
+    "author": "Fuzs",
+    "category": "utility",
+    "link": "https://www.curseforge.com/minecraft/mc-mods/pick-up-notifier",
+    "image": "/images/mods/default.jpg"
+  },
+  {
+    "id": 170,
+    "name": "Visual Traveler's Titles",
+    "author": "un_roman",
+    "category": "utility",
+    "link": "https://www.curseforge.com/minecraft/texture-packs/visual-travelers-titles",
+    "image": "/images/mods/default.jpg"
+  },
+  {
+    "id": 171,
+    "name": "Bookshelf",
+    "author": "DarkhaxDev",
+    "category": "utility",
+    "link": "https://www.curseforge.com/minecraft/mc-mods/bookshelf",
+    "image": "/images/mods/default.jpg"
+  },
+  {
+    "id": 172,
+    "name": "Quests Additions (Forge)",
+    "author": "NaturaSpell",
+    "category": "utility",
+    "link": "https://www.curseforge.com/minecraft/mc-mods/quests-additions",
+    "image": "/images/mods/default.jpg"
+  },
+  {
+    "id": 173,
+    "name": "MES - Moog's End Structures",
+    "author": "finndog_123",
+    "category": "adventure",
+    "link": "https://www.curseforge.com/minecraft/mc-mods/moogs-end-structures",
+    "image": "/images/mods/default.jpg"
+  },
+  {
+    "id": 174,
+    "name": "Medieval Music[Forge/Fabric]",
+    "author": "someaddon",
+    "category": "utility",
+    "link": "https://www.curseforge.com/minecraft/mc-mods/medieval-music",
+    "image": "/images/mods/default.jpg"
+  },
+  {
+    "id": 175,
+    "name": "The Aether",
+    "author": "TheAetherTeam",
+    "category": "utility",
+    "link": "https://www.curseforge.com/minecraft/mc-mods/aether",
+    "image": "/images/mods/default.jpg"
+  },
+  {
+    "id": 176,
+    "name": "Xaero's Minimap & World Map - Waystones Compatibility [Forge]",
+    "author": "ArcaneAlloy",
+    "category": "utility",
+    "link": "https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap-world-map-waystones-compability",
+    "image": "/images/mods/default.jpg"
+  },
+  {
+    "id": 177,
+    "name": "Mutant Monsters [Forge & Fabric]",
+    "author": "Fuzs",
+    "category": "utility",
+    "link": "https://www.curseforge.com/minecraft/mc-mods/mutant-monsters",
+    "image": "/images/mods/default.jpg"
+  },
+  {
+    "id": 178,
+    "name": "Incendium",
+    "author": "Starmute",
+    "category": "utility",
+    "link": "https://www.curseforge.com/minecraft/mc-mods/incendium",
+    "image": "/images/mods/default.jpg"
+  },
+  {
+    "id": 179,
+    "name": "The Endergetic Expansion",
+    "author": "TeamAbnormals",
+    "category": "utility",
+    "link": "https://www.curseforge.com/minecraft/mc-mods/endergetic",
+    "image": "/images/mods/default.jpg"
+  },
+  {
+    "id": 180,
+    "name": "Better chunk loading[Forge/Fabric]",
+    "author": "someaddon",
+    "category": "utility",
+    "link": "https://www.curseforge.com/minecraft/mc-mods/better-chunk-loading-forge-fabric",
+    "image": "/images/mods/default.jpg"
+  },
+  {
+    "id": 181,
+    "name": "Soft Weather",
+    "author": "vectorwing",
+    "category": "utility",
+    "link": "https://www.curseforge.com/minecraft/texture-packs/soft-weather",
+    "image": "/images/mods/default.jpg"
+  },
+  {
+    "id": 182,
+    "name": "Library Ferret - Forge",
+    "author": "jtl_elisa",
+    "category": "utility",
+    "link": "https://www.curseforge.com/minecraft/mc-mods/library-ferret-forge",
+    "image": "/images/mods/default.jpg"
+  },
+  {
+    "id": 183,
+    "name": "Alex's Mobs",
+    "author": "sbom_xela",
+    "category": "utility",
+    "link": "https://www.curseforge.com/minecraft/mc-mods/alexs-mobs",
+    "image": "/images/mods/default.jpg"
+  },
+  {
+    "id": 184,
+    "name": "Legendary Tooltips [Neo/Forge]",
+    "author": "Grend_G",
+    "category": "utility",
+    "link": "https://www.curseforge.com/minecraft/mc-mods/legendary-tooltips",
+    "image": "/images/mods/default.jpg"
+  },
+  {
+    "id": 185,
+    "name": "TCT ClearLag",
+    "author": "The_TCT",
+    "category": "utility",
+    "link": "https://www.curseforge.com/minecraft/mc-mods/tct-clearlag",
+    "image": "/images/mods/default.jpg"
+  },
+  {
+    "id": 186,
+    "name": "Ender's Delight",
+    "author": "Furti_Two",
+    "category": "utility",
+    "link": "https://www.curseforge.com/minecraft/mc-mods/enders-delight",
+    "image": "/images/mods/default.jpg"
+  },
+  {
+    "id": 187,
+    "name": "Architectury API",
+    "author": "shedaniel",
+    "category": "utility",
+    "link": "https://www.curseforge.com/minecraft/mc-mods/architectury-api",
+    "image": "/images/mods/default.jpg"
+  },
+  {
+    "id": 188,
+    "name": "YUNG's Better Desert Temples (Forge)",
+    "author": "YUNGNICKYOUNG",
+    "category": "utility",
+    "link": "https://www.curseforge.com/minecraft/mc-mods/yungs-better-desert-temples",
+    "image": "/images/mods/default.jpg"
+  },
+  {
+    "id": 189,
+    "name": "AutoRegLib",
+    "author": "Vazkii",
+    "category": "utility",
+    "link": "https://www.curseforge.com/minecraft/mc-mods/autoreglib",
+    "image": "/images/mods/default.jpg"
+  },
+  {
+    "id": 190,
+    "name": "Resourceful Lib",
+    "author": "ThatGravyBoat",
+    "category": "utility",
+    "link": "https://www.curseforge.com/minecraft/mc-mods/resourceful-lib",
+    "image": "/images/mods/default.jpg"
+  },
+  {
+    "id": 191,
+    "name": "CreativeCore",
+    "author": "CreativeMD",
+    "category": "utility",
+    "link": "https://www.curseforge.com/minecraft/mc-mods/creativecore",
+    "image": "/images/mods/default.jpg"
+  },
+  {
+    "id": 192,
+    "name": "AttributeFix",
+    "author": "DarkhaxDev",
+    "category": "utility",
+    "link": "https://www.curseforge.com/minecraft/mc-mods/attributefix",
+    "image": "/images/mods/default.jpg"
+  },
+  {
+    "id": 193,
+    "name": "Responsive Shields",
+    "author": "Revvilo",
+    "category": "utility",
+    "link": "https://www.curseforge.com/minecraft/mc-mods/responsive-shields",
+    "image": "/images/mods/default.jpg"
+  },
+  {
+    "id": 194,
+    "name": "Sophisticated Backpacks",
+    "author": "P3pp3rF1y",
+    "category": "utility",
+    "link": "https://www.curseforge.com/minecraft/mc-mods/sophisticated-backpacks",
+    "image": "/images/mods/default.jpg"
+  },
+  {
+    "id": 195,
+    "name": "AI Improvements",
+    "author": "QueenOfMissiles",
+    "category": "utility",
+    "link": "https://www.curseforge.com/minecraft/mc-mods/ai-improvements",
+    "image": "/images/mods/default.jpg"
+  },
+  {
+    "id": 196,
+    "name": "Inventory HUD+",
+    "author": "dmitrylovin",
+    "category": "utility",
+    "link": "https://www.curseforge.com/minecraft/mc-mods/inventory-hud-forge",
+    "image": "/images/mods/default.jpg"
+  },
+  {
+    "id": 197,
+    "name": "Resource Pack Overrides [Forge & Fabric]",
+    "author": "Fuzs",
+    "category": "utility",
+    "link": "https://www.curseforge.com/minecraft/mc-mods/resource-pack-overrides",
+    "image": "/images/mods/default.jpg"
+  },
+  {
+    "id": 198,
+    "name": "[Let's Do] Vinery",
+    "author": "satisfy",
+    "category": "utility",
+    "link": "https://www.curseforge.com/minecraft/mc-mods/lets-do-vinery",
+    "image": "/images/mods/default.jpg"
+  },
+  {
+    "id": 199,
+    "name": "Fusion (Connected Textures)",
+    "author": "SuperMartijn642",
+    "category": "utility",
+    "link": "https://www.curseforge.com/minecraft/mc-mods/fusion-connected-textures",
+    "image": "/images/mods/default.jpg"
+  },
+  {
+    "id": 200,
+    "name": "Spartan Weaponry",
+    "author": "ObliviousSpartan",
+    "category": "utility",
+    "link": "https://www.curseforge.com/minecraft/mc-mods/spartan-weaponry",
+    "image": "/images/mods/default.jpg"
+  },
+  {
+    "id": 201,
+    "name": "Farsight [Forge/Neo]",
+    "author": "someaddon",
+    "category": "utility",
+    "link": "https://www.curseforge.com/minecraft/mc-mods/farsight",
+    "image": "/images/mods/default.jpg"
+  },
+  {
+    "id": 202,
+    "name": "DoesPotatoTick?",
+    "author": "pOtAto__bOy",
+    "category": "utility",
+    "link": "https://www.curseforge.com/minecraft/mc-mods/doespotatotick",
+    "image": "/images/mods/default.jpg"
+  },
+  {
+    "id": 203,
+    "name": "Citadel",
+    "author": "sbom_xela",
+    "category": "utility",
+    "link": "https://www.curseforge.com/minecraft/mc-mods/citadel",
+    "image": "/images/mods/default.jpg"
+  },
+  {
+    "id": 204,
+    "name": "Chloride (Embeddium++)",
+    "author": "SrRapero720",
+    "category": "utility",
+    "link": "https://www.curseforge.com/minecraft/mc-mods/chloride-mod",
+    "image": "/images/mods/default.jpg"
+  },
+  {
+    "id": 205,
+    "name": "YUNG's Better Ocean Monuments (Forge)",
+    "author": "YUNGNICKYOUNG",
+    "category": "utility",
+    "link": "https://www.curseforge.com/minecraft/mc-mods/yungs-better-ocean-monuments",
+    "image": "/images/mods/default.jpg"
+  },
+  {
+    "id": 206,
+    "name": "SuperMartijn642's Core Lib",
+    "author": "SuperMartijn642",
+    "category": "utility",
+    "link": "https://www.curseforge.com/minecraft/mc-mods/supermartijn642s-core-lib",
+    "image": "/images/mods/default.jpg"
+  },
+  {
+    "id": 207,
+    "name": "Security Craft",
+    "author": "Geforce132",
+    "category": "utility",
+    "link": "https://www.curseforge.com/minecraft/mc-mods/security-craft",
+    "image": "/images/mods/default.jpg"
+  },
+  {
+    "id": 208,
+    "name": "Mekanism Tools",
+    "author": "bradyaidanc",
+    "category": "tech",
+    "link": "https://www.curseforge.com/minecraft/mc-mods/mekanism-tools",
+    "image": "/images/mods/default.jpg"
+  },
+  {
+    "id": 209,
+    "name": "Awesome Dungeon 📦",
+    "author": "jtl_elisa",
+    "category": "adventure",
+    "link": "https://www.curseforge.com/minecraft/texture-packs/awesome-dungeon-datapack",
+    "image": "/images/mods/default.jpg"
+  },
+  {
+    "id": 210,
+    "name": "Just Enough Professions (JEP)",
+    "author": "Mrbysco",
+    "category": "utility",
+    "link": "https://www.curseforge.com/minecraft/mc-mods/just-enough-professions-jep",
+    "image": "/images/mods/default.jpg"
+  },
+  {
+    "id": 211,
+    "name": "Mantle",
+    "author": "mDiyo",
+    "category": "utility",
+    "link": "https://www.curseforge.com/minecraft/mc-mods/mantle",
+    "image": "/images/mods/default.jpg"
+  },
+  {
+    "id": 212,
+    "name": "Connected Glass",
+    "author": "SuperMartijn642",
+    "category": "utility",
+    "link": "https://www.curseforge.com/minecraft/mc-mods/connected-glass",
+    "image": "/images/mods/default.jpg"
+  },
+  {
+    "id": 213,
+    "name": "Archeology API",
+    "author": "min01",
+    "category": "utility",
+    "link": "https://www.curseforge.com/minecraft/mc-mods/archeology-api",
+    "image": "/images/mods/default.jpg"
+  },
+  {
+    "id": 214,
+    "name": "Equipment Compare [Neo/Forge]",
+    "author": "Grend_G",
+    "category": "utility",
+    "link": "https://www.curseforge.com/minecraft/mc-mods/equipment-compare",
+    "image": "/images/mods/default.jpg"
+  },
+  {
+    "id": 215,
+    "name": "Elevated enchantment",
+    "author": "Link_56",
+    "category": "utility",
+    "link": "https://www.curseforge.com/minecraft/mc-mods/elevated-enchantment",
+    "image": "/images/mods/default.jpg"
+  },
+  {
+    "id": 216,
+    "name": "SmartBrainLib (Forge/Fabric/Quilt)",
+    "author": "Scimiguy",
+    "category": "utility",
+    "link": "https://www.curseforge.com/minecraft/mc-mods/smartbrainlib",
+    "image": "/images/mods/default.jpg"
+  },
+  {
+    "id": 217,
+    "name": "Xaero's World Map",
+    "author": "xaero96",
+    "category": "utility",
+    "link": "https://www.curseforge.com/minecraft/mc-mods/xaeros-world-map",
+    "image": "/images/mods/default.jpg"
+  },
+  {
+    "id": 218,
+    "name": "Lazy DataFixerUpper(LazyDFU) [FORGE]",
+    "author": "Corgi_Taco",
+    "category": "utility",
+    "link": "https://www.curseforge.com/minecraft/mc-mods/lazy-dfu-forge",
+    "image": "/images/mods/default.jpg"
+  },
+  {
+    "id": 219,
+    "name": "Sound Physics Remastered",
+    "author": "henkelmax",
+    "category": "utility",
+    "link": "https://www.curseforge.com/minecraft/mc-mods/sound-physics-remastered",
+    "image": "/images/mods/default.jpg"
+  },
+  {
+    "id": 220,
+    "name": "Create: Protection Pixel",
+    "author": "JEDIGD",
+    "category": "tech",
+    "link": "https://www.curseforge.com/minecraft/mc-mods/protection-pixel",
+    "image": "/images/mods/default.jpg"
+  },
+  {
+    "id": 221,
+    "name": "Modonomicon",
+    "author": "kli_kli",
+    "category": "utility",
+    "link": "https://www.curseforge.com/minecraft/mc-mods/modonomicon",
+    "image": "/images/mods/default.jpg"
+  },
+  {
+    "id": 222,
+    "name": "Yung Structures Addon for Loot Integrations",
+    "author": "someaddon",
+    "category": "adventure",
+    "link": "https://www.curseforge.com/minecraft/mc-mods/yung-structures-addon-for-loot-integrations",
+    "image": "/images/mods/default.jpg"
+  },
+  {
+    "id": 223,
+    "name": "Just Enough Mekanism Multiblocks",
+    "author": "gisellevonbingen",
+    "category": "tech",
+    "link": "https://www.curseforge.com/minecraft/mc-mods/just-enough-mekanism-multiblocks",
+    "image": "/images/mods/default.jpg"
+  },
+  {
+    "id": 224,
+    "name": "Small Ships [Fabric & Forge]",
+    "author": "talhanation",
+    "category": "utility",
+    "link": "https://www.curseforge.com/minecraft/mc-mods/small-ships",
+    "image": "/images/mods/default.jpg"
+  },
+  {
+    "id": 225,
+    "name": "ConnectedTexturesMod",
+    "author": "tterrag1098",
+    "category": "utility",
+    "link": "https://www.curseforge.com/minecraft/mc-mods/ctm",
+    "image": "/images/mods/default.jpg"
+  },
+  {
+    "id": 226,
+    "name": "Ma Enchants",
+    "author": "Maciej916",
+    "category": "utility",
+    "link": "https://www.curseforge.com/minecraft/mc-mods/ma-enchants",
+    "image": "/images/mods/default.jpg"
+  },
+  {
+    "id": 227,
+    "name": "Savage Ender Dragon[Forge/Fabric]",
+    "author": "someaddon",
+    "category": "utility",
+    "link": "https://www.curseforge.com/minecraft/mc-mods/savage-ender-dragon",
+    "image": "/images/mods/default.jpg"
+  },
+  {
+    "id": 228,
+    "name": "Structory",
+    "author": "botanydev",
+    "category": "utility",
+    "link": "https://www.curseforge.com/minecraft/mc-mods/structory",
+    "image": "/images/mods/default.jpg"
+  },
+  {
+    "id": 229,
+    "name": "fix GPU memory leak[Forge/Fabric]",
+    "author": "someaddon",
+    "category": "utility",
+    "link": "https://www.curseforge.com/minecraft/mc-mods/fix-gpu-memory-leak",
+    "image": "/images/mods/default.jpg"
+  },
+  {
+    "id": 230,
+    "name": "Server Performance - Smooth Chunk Save[Forge/Fabric]",
+    "author": "someaddon",
+    "category": "optimization",
+    "link": "https://www.curseforge.com/minecraft/mc-mods/smooth-chunk-save",
+    "image": "/images/mods/default.jpg"
+  },
+  {
+    "id": 231,
+    "name": "Majrusz Library",
+    "author": "Majrusz17",
+    "category": "utility",
+    "link": "https://www.curseforge.com/minecraft/mc-mods/majrusz-library",
+    "image": "/images/mods/default.jpg"
+  },
+  {
+    "id": 232,
+    "name": "Let Me Despawn",
+    "author": "frikinjay",
+    "category": "utility",
+    "link": "https://www.curseforge.com/minecraft/mc-mods/let-me-despawn",
+    "image": "/images/mods/default.jpg"
+  },
+  {
+    "id": 233,
+    "name": "AppleSkin",
+    "author": "squeek502",
+    "category": "utility",
+    "link": "https://www.curseforge.com/minecraft/mc-mods/appleskin",
+    "image": "/images/mods/default.jpg"
+  },
+  {
+    "id": 234,
+    "name": "Sophisticated Core",
+    "author": "P3pp3rF1y",
+    "category": "utility",
+    "link": "https://www.curseforge.com/minecraft/mc-mods/sophisticated-core",
+    "image": "/images/mods/default.jpg"
+  },
+  {
+    "id": 235,
+    "name": "Decorative Blocks",
+    "author": "stohun",
+    "category": "decoration",
+    "link": "https://www.curseforge.com/minecraft/mc-mods/decorative-blocks",
+    "image": "/images/mods/default.jpg"
+  },
+  {
+    "id": 236,
+    "name": "Bee Fix",
+    "author": "MacTso",
+    "category": "utility",
+    "link": "https://www.curseforge.com/minecraft/mc-mods/bee-fix",
+    "image": "/images/mods/default.jpg"
+  },
+  {
+    "id": 237,
+    "name": "FTB Chunks (Forge)",
+    "author": "FTB",
+    "category": "utility",
+    "link": "https://www.curseforge.com/minecraft/mc-mods/ftb-chunks-forge",
+    "image": "/images/mods/default.jpg"
+  },
+  {
+    "id": 238,
+    "name": "Realm RPG: Imps & Demons",
+    "author": "nocubeyt",
+    "category": "utility",
+    "link": "https://www.curseforge.com/minecraft/mc-mods/realm-rpg-imps-demons",
+    "image": "/images/mods/default.jpg"
+  },
+  {
+    "id": 239,
+    "name": "Supplementaries",
+    "author": "MehVahdJukaar",
+    "category": "utility",
+    "link": "https://www.curseforge.com/minecraft/mc-mods/supplementaries",
+    "image": "/images/mods/default.jpg"
+  },
+  {
+    "id": 240,
+    "name": "[Let's Do Addon] Structures",
+    "author": "Ninjdai",
+    "category": "adventure",
+    "link": "https://www.curseforge.com/minecraft/mc-mods/lets-do-addon-structures",
+    "image": "/images/mods/default.jpg"
+  },
+  {
+    "id": 241,
+    "name": "Pluto",
+    "author": "AbdElAziz333",
+    "category": "utility",
+    "link": "https://www.curseforge.com/minecraft/mc-mods/pluto",
+    "image": "/images/mods/default.jpg"
+  },
+  {
+    "id": 242,
+    "name": "Diagonal Fences [Forge & Fabric]",
+    "author": "Fuzs",
+    "category": "utility",
+    "link": "https://www.curseforge.com/minecraft/mc-mods/diagonal-fences",
+    "image": "/images/mods/default.jpg"
+  },
+  {
+    "id": 243,
+    "name": "Puzzles Lib [Forge & Fabric]",
+    "author": "Fuzs",
+    "category": "utility",
+    "link": "https://www.curseforge.com/minecraft/mc-mods/puzzles-lib",
+    "image": "/images/mods/default.jpg"
+  },
+  {
+    "id": 244,
+    "name": "Curios API (Forge/NeoForge)",
+    "author": "TheIllusiveC4",
+    "category": "utility",
+    "link": "https://www.curseforge.com/minecraft/mc-mods/curios",
+    "image": "/images/mods/default.jpg"
+  },
+  {
+    "id": 245,
+    "name": "Tinkers' Levelling Addon",
+    "author": "Pyre540",
+    "category": "tech",
+    "link": "https://www.curseforge.com/minecraft/mc-mods/tinkers-levelling-addon",
+    "image": "/images/mods/default.jpg"
+  },
+  {
+    "id": 246,
+    "name": "Controlling",
+    "author": "Jaredlll08",
+    "category": "utility",
+    "link": "https://www.curseforge.com/minecraft/mc-mods/controlling",
+    "image": "/images/mods/default.jpg"
+  },
+  {
+    "id": 247,
+    "name": "Chipped",
+    "author": "terrariumearth",
+    "category": "utility",
+    "link": "https://www.curseforge.com/minecraft/mc-mods/chipped",
+    "image": "/images/mods/default.jpg"
+  },
+  {
+    "id": 248,
+    "name": "Packet Fixer",
+    "author": "TonimatasDEV",
+    "category": "utility",
+    "link": "https://www.curseforge.com/minecraft/mc-mods/packet-fixer",
+    "image": "/images/mods/default.jpg"
+  },
+  {
+    "id": 249,
+    "name": "Mowzie's Mobs",
+    "author": "bobmowzie",
+    "category": "utility",
+    "link": "https://www.curseforge.com/minecraft/mc-mods/mowzies-mobs",
+    "image": "/images/mods/default.jpg"
+  },
+  {
+    "id": 250,
+    "name": "PlayerRevive",
+    "author": "CreativeMD",
+    "category": "utility",
+    "link": "https://www.curseforge.com/minecraft/mc-mods/playerrevive",
+    "image": "/images/mods/default.jpg"
+  },
+  {
+    "id": 251,
+    "name": "Searchables",
+    "author": "Jaredlll08",
+    "category": "utility",
+    "link": "https://www.curseforge.com/minecraft/mc-mods/searchables",
+    "image": "/images/mods/default.jpg"
+  },
+  {
+    "id": 252,
+    "name": "When Dungeons Arise - Forge!",
+    "author": "Aureljz",
+    "category": "adventure",
+    "link": "https://www.curseforge.com/minecraft/mc-mods/when-dungeons-arise",
+    "image": "/images/mods/default.jpg"
+  },
+  {
+    "id": 253,
+    "name": "Boss Health Regain",
+    "author": "dragoni_7",
+    "category": "utility",
+    "link": "https://www.curseforge.com/minecraft/mc-mods/boss-health-regain",
+    "image": "/images/mods/default.jpg"
+  },
+  {
+    "id": 254,
+    "name": "Xaero's Minimap",
+    "author": "xaero96",
+    "category": "utility",
+    "link": "https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap",
+    "image": "/images/mods/default.jpg"
+  },
+  {
+    "id": 255,
+    "name": "Structure Essentials[Forge/Fabric]",
+    "author": "someaddon",
+    "category": "adventure",
+    "link": "https://www.curseforge.com/minecraft/mc-mods/structure-essentials-forge-fabric",
+    "image": "/images/mods/default.jpg"
+  },
+  {
+    "id": 256,
+    "name": "Collective",
+    "author": "Serilum",
+    "category": "utility",
+    "link": "https://www.curseforge.com/minecraft/mc-mods/collective",
+    "image": "/images/mods/default.jpg"
+  },
+  {
+    "id": 257,
+    "name": "Konkrete [Forge/NeoForge]",
+    "author": "Keksuccino",
+    "category": "utility",
+    "link": "https://www.curseforge.com/minecraft/mc-mods/konkrete",
+    "image": "/images/mods/default.jpg"
+  },
+  {
+    "id": 258,
+    "name": "Lightspeed - Launch optimizations",
+    "author": "ccr4ft3r",
+    "category": "optimization",
+    "link": "https://www.curseforge.com/minecraft/mc-mods/lightspeedmod",
+    "image": "/images/mods/default.jpg"
+  },
+  {
+    "id": 259,
+    "name": "Saturn",
+    "author": "AbdElAziz333",
+    "category": "utility",
+    "link": "https://www.curseforge.com/minecraft/mc-mods/saturn",
+    "image": "/images/mods/default.jpg"
+  },
+  {
+    "id": 260,
+    "name": "Better Advancements",
+    "author": "way2muchnoise",
+    "category": "utility",
+    "link": "https://www.curseforge.com/minecraft/mc-mods/better-advancements",
+    "image": "/images/mods/default.jpg"
+  },
+  {
+    "id": 261,
+    "name": "Meet Your Fight",
+    "author": "Lykrast",
+    "category": "utility",
+    "link": "https://www.curseforge.com/minecraft/mc-mods/meet-your-fight",
+    "image": "/images/mods/default.jpg"
+  },
+  {
+    "id": 262,
+    "name": "Regions Unexplored (forge/fabric)",
+    "author": "UHQ_GAMES",
+    "category": "utility",
+    "link": "https://www.curseforge.com/minecraft/mc-mods/regions-unexplored",
+    "image": "/images/mods/default.jpg"
+  },
+  {
+    "id": 263,
+    "name": "WorldEdit",
+    "author": "sk89q",
+    "category": "utility",
+    "link": "https://www.curseforge.com/minecraft/mc-mods/worldedit",
+    "image": "/images/mods/default.jpg"
+  },
+  {
+    "id": 264,
+    "name": "Twilight's Flavors & Delight",
+    "author": "lcy0x1",
+    "category": "utility",
+    "link": "https://www.curseforge.com/minecraft/mc-mods/twilights-flavors-delight",
+    "image": "/images/mods/default.jpg"
+  },
+  {
+    "id": 265,
+    "name": "YUNG's Better End Island (Forge)",
+    "author": "YUNGNICKYOUNG",
+    "category": "utility",
+    "link": "https://www.curseforge.com/minecraft/mc-mods/yungs-better-end-island",
+    "image": "/images/mods/default.jpg"
+  },
+  {
+    "id": 266,
+    "name": "Enhanced Celestials - Blood, Blue, & Harvest (Super) Moons",
+    "author": "Corgi_Taco",
+    "category": "utility",
+    "link": "https://www.curseforge.com/minecraft/mc-mods/enhanced-celestials",
+    "image": "/images/mods/default.jpg"
+  },
+  {
+    "id": 267,
+    "name": "Spartan Weaponry Addon Toolkit",
+    "author": "kreloxcz",
+    "category": "utility",
+    "link": "https://www.curseforge.com/minecraft/mc-mods/spartan-weaponry-addon-toolkit",
+    "image": "/images/mods/default.jpg"
+  },
+  {
+    "id": 268,
+    "name": "Overflowing Bars [Forge & Fabric]",
+    "author": "Fuzs",
+    "category": "utility",
+    "link": "https://www.curseforge.com/minecraft/mc-mods/overflowing-bars",
+    "image": "/images/mods/default.jpg"
+  },
+  {
+    "id": 269,
+    "name": "Dungeon Bosses",
+    "author": "KingIggy",
+    "category": "adventure",
+    "link": "https://www.curseforge.com/minecraft/mc-mods/dungeon-bosses",
+    "image": "/images/mods/default.jpg"
+  },
+  {
+    "id": 270,
+    "name": "Awakened Bosses",
+    "author": "TrueRealCursed_Warrior",
+    "category": "utility",
+    "link": "https://www.curseforge.com/minecraft/mc-mods/awakened-bosses",
+    "image": "/images/mods/default.jpg"
+  },
+  {
+    "id": 271,
+    "name": "Carry On",
+    "author": "Tschipp",
+    "category": "utility",
+    "link": "https://www.curseforge.com/minecraft/mc-mods/carry-on",
+    "image": "/images/mods/default.jpg"
+  },
+  {
+    "id": 272,
+    "name": "Creeper Overhaul",
+    "author": "joosh_7889",
+    "category": "utility",
+    "link": "https://www.curseforge.com/minecraft/mc-mods/creeper-overhaul",
+    "image": "/images/mods/default.jpg"
+  },
+  {
+    "id": 273,
+    "name": "Fast Async World Save[Forge/Fabric]",
+    "author": "someaddon",
+    "category": "utility",
+    "link": "https://www.curseforge.com/minecraft/mc-mods/fast-async-world-save-forge-fabric",
+    "image": "/images/mods/default.jpg"
+  },
+  {
+    "id": 274,
+    "name": "Integrated Dungeons and Structures- Alex's Mobs Integration",
+    "author": "CraisinLord",
+    "category": "adventure",
+    "link": "https://www.curseforge.com/minecraft/texture-packs/idas-alexs-mobs",
+    "image": "/images/mods/default.jpg"
+  },
+  {
+    "id": 275,
+    "name": "JustHammers",
+    "author": "ErrorMikey",
+    "category": "utility",
+    "link": "https://www.curseforge.com/minecraft/mc-mods/justhammers",
+    "image": "/images/mods/default.jpg"
+  },
+  {
+    "id": 276,
+    "name": "Immersive Aircraft [Fabric/Forge]",
+    "author": "Conczin",
+    "category": "utility",
+    "link": "https://www.curseforge.com/minecraft/mc-mods/immersive-aircraft",
+    "image": "/images/mods/default.jpg"
+  },
+  {
+    "id": 277,
+    "name": "Amplified Nether",
+    "author": "Starmute",
+    "category": "utility",
+    "link": "https://www.curseforge.com/minecraft/mc-mods/amplified-nether",
+    "image": "/images/mods/default.jpg"
+  },
+  {
+    "id": 278,
+    "name": "EEEAB's Mobs",
+    "author": "EEEAB",
+    "category": "utility",
+    "link": "https://www.curseforge.com/minecraft/mc-mods/eeeabs-mobs",
+    "image": "/images/mods/default.jpg"
+  },
+  {
+    "id": 279,
+    "name": "Rhino",
+    "author": "LatvianModder",
+    "category": "utility",
+    "link": "https://www.curseforge.com/minecraft/mc-mods/rhino",
+    "image": "/images/mods/default.jpg"
+  },
+  {
+    "id": 280,
+    "name": "Clear Glass with Connected Textures! [16x]",
+    "author": "Dnator",
+    "category": "utility",
+    "link": "https://www.curseforge.com/minecraft/texture-packs/clear-glass-pack",
+    "image": "/images/mods/default.jpg"
+  },
+  {
+    "id": 281,
+    "name": "Corail Tombstone",
+    "author": "Corail_31",
+    "category": "utility",
+    "link": "https://www.curseforge.com/minecraft/mc-mods/corail-tombstone",
+    "image": "/images/mods/default.jpg"
+  },
+  {
+    "id": 282,
+    "name": "GeckoLib",
+    "author": "Gecko",
+    "category": "utility",
+    "link": "https://www.curseforge.com/minecraft/mc-mods/geckolib",
+    "image": "/images/mods/default.jpg"
+  },
+  {
+    "id": 283,
+    "name": "Botanic Additions",
+    "author": "Zeith",
+    "category": "utility",
+    "link": "https://www.curseforge.com/minecraft/mc-mods/botanic-additions",
+    "image": "/images/mods/default.jpg"
+  },
+  {
+    "id": 284,
+    "name": "FastWorkbench",
+    "author": "Shadows_of_Fire",
+    "category": "utility",
+    "link": "https://www.curseforge.com/minecraft/mc-mods/fastworkbench",
+    "image": "/images/mods/default.jpg"
+  },
+  {
+    "id": 285,
+    "name": "Camera Mod",
+    "author": "henkelmax",
+    "category": "utility",
+    "link": "https://www.curseforge.com/minecraft/mc-mods/camera-mod",
+    "image": "/images/mods/default.jpg"
+  },
+  {
+    "id": 286,
+    "name": "♪ Boss Music Mod ♪",
+    "author": "theexiiedfeiiow_",
+    "category": "utility",
+    "link": "https://www.curseforge.com/minecraft/mc-mods/boss-music-mod",
+    "image": "/images/mods/default.jpg"
+  },
+  {
+    "id": 287,
+    "name": "Monster Plus",
+    "author": "Nitespring",
+    "category": "utility",
+    "link": "https://www.curseforge.com/minecraft/mc-mods/monster-plus",
+    "image": "/images/mods/default.jpg"
+  },
+  {
+    "id": 288,
+    "name": "YUNG's Bridges (Forge)",
+    "author": "YUNGNICKYOUNG",
+    "category": "utility",
+    "link": "https://www.curseforge.com/minecraft/mc-mods/yungs-bridges",
+    "image": "/images/mods/default.jpg"
+  },
+  {
+    "id": 289,
+    "name": "Lootr (Forge & NeoForge)",
+    "author": "Noobanidus",
+    "category": "utility",
+    "link": "https://www.curseforge.com/minecraft/mc-mods/lootr",
+    "image": "/images/mods/default.jpg"
+  },
+  {
+    "id": 290,
+    "name": "BadOptimizations",
+    "author": "thosea",
+    "category": "optimization",
+    "link": "https://www.curseforge.com/minecraft/mc-mods/badoptimizations",
+    "image": "/images/mods/default.jpg"
+  },
+  {
+    "id": 291,
+    "name": "SuperMartijn642's Config Lib",
+    "author": "SuperMartijn642",
+    "category": "utility",
+    "link": "https://www.curseforge.com/minecraft/mc-mods/supermartijn642s-config-lib",
+    "image": "/images/mods/default.jpg"
+  },
+  {
+    "id": 292,
+    "name": "Gateways to Eternity",
+    "author": "Shadows_of_Fire",
+    "category": "utility",
+    "link": "https://www.curseforge.com/minecraft/mc-mods/gateways-to-eternity",
+    "image": "/images/mods/default.jpg"
+  },
+  {
+    "id": 293,
+    "name": "Tinkers' JSON Things",
+    "author": "KnightMiner",
+    "category": "tech",
+    "link": "https://www.curseforge.com/minecraft/mc-mods/tinkers-things-json",
+    "image": "/images/mods/default.jpg"
+  },
+  {
+    "id": 294,
+    "name": "Explorer's Compass",
+    "author": "Chaosyr",
+    "category": "utility",
+    "link": "https://www.curseforge.com/minecraft/mc-mods/explorers-compass",
+    "image": "/images/mods/default.jpg"
+  },
+  {
+    "id": 295,
+    "name": "Epic Paladins",
+    "author": "Bandit_Bytes",
+    "category": "utility",
+    "link": "https://www.curseforge.com/minecraft/mc-mods/epic-paladins",
+    "image": "/images/mods/default.jpg"
+  },
+  {
+    "id": 296,
+    "name": "playerAnimator",
+    "author": "KosmX",
+    "category": "utility",
+    "link": "https://www.curseforge.com/minecraft/mc-mods/playeranimator",
+    "image": "/images/mods/default.jpg"
+  },
+  {
+    "id": 297,
+    "name": "Spartan Weaponry: Twilight Forest",
+    "author": "kreloxcz",
+    "category": "utility",
+    "link": "https://www.curseforge.com/minecraft/mc-mods/spartan-weaponry-twilight-forest",
+    "image": "/images/mods/default.jpg"
+  },
+  {
+    "id": 298,
+    "name": "Realm RPG: Creep & Crop",
+    "author": "nocubeyt",
+    "category": "utility",
+    "link": "https://www.curseforge.com/minecraft/mc-mods/realm-rpg-creep-crop",
+    "image": "/images/mods/default.jpg"
+  },
+  {
+    "id": 299,
+    "name": "FTB Library (Forge)",
+    "author": "FTB",
+    "category": "utility",
+    "link": "https://www.curseforge.com/minecraft/mc-mods/ftb-library-forge",
+    "image": "/images/mods/default.jpg"
+  },
+  {
+    "id": 300,
+    "name": "Majrusz's Enchantments",
+    "author": "Majrusz17",
+    "category": "utility",
+    "link": "https://www.curseforge.com/minecraft/mc-mods/wonderful-enchantments",
+    "image": "/images/mods/default.jpg"
+  },
+  {
+    "id": 301,
+    "name": "FTB Quests Optimizer",
+    "author": "big_energy",
+    "category": "optimization",
+    "link": "https://www.curseforge.com/minecraft/mc-mods/ftb-quests-optimizer",
+    "image": "/images/mods/default.jpg"
+  },
+  {
+    "id": 302,
+    "name": "Lithosphere",
+    "author": "J4yzet",
+    "category": "utility",
+    "link": "https://www.curseforge.com/minecraft/mc-mods/lithosphere",
+    "image": "/images/mods/default.jpg"
+  },
+  {
+    "id": 303,
+    "name": "Balm",
+    "author": "BlayTheNinth",
+    "category": "utility",
+    "link": "https://www.curseforge.com/minecraft/mc-mods/balm",
+    "image": "/images/mods/default.jpg"
+  },
+  {
+    "id": 304,
+    "name": "TerraBlender (Forge)",
+    "author": "TheAdubbz",
+    "category": "utility",
+    "link": "https://www.curseforge.com/minecraft/mc-mods/terrablender",
+    "image": "/images/mods/default.jpg"
+  },
+  {
+    "id": 305,
+    "name": "KubeJS",
+    "author": "LatvianModder",
+    "category": "utility",
+    "link": "https://www.curseforge.com/minecraft/mc-mods/kubejs",
+    "image": "/images/mods/default.jpg"
+  },
+  {
+    "id": 306,
+    "name": "Malum",
+    "author": "sammysemicolon",
+    "category": "utility",
+    "link": "https://www.curseforge.com/minecraft/mc-mods/malum",
+    "image": "/images/mods/default.jpg"
+  },
+  {
+    "id": 307,
+    "name": "Integrated API",
+    "author": "CraisinLord",
+    "category": "utility",
+    "link": "https://www.curseforge.com/minecraft/mc-mods/integrated-api",
+    "image": "/images/mods/default.jpg"
+  },
+  {
+    "id": 308,
+    "name": "Iron Furnaces",
+    "author": "XenoMustache",
+    "category": "utility",
+    "link": "https://www.curseforge.com/minecraft/mc-mods/iron-furnaces",
+    "image": "/images/mods/default.jpg"
+  },
+  {
+    "id": 309,
+    "name": "Guard Villagers",
+    "author": "almightytallestred",
+    "category": "utility",
+    "link": "https://www.curseforge.com/minecraft/mc-mods/guard-villagers",
+    "image": "/images/mods/default.jpg"
+  },
+  {
+    "id": 310,
+    "name": "Integrated Stronghold",
+    "author": "CraisinLord",
+    "category": "utility",
+    "link": "https://www.curseforge.com/minecraft/mc-mods/integrated-stronghold",
+    "image": "/images/mods/default.jpg"
+  },
+  {
+    "id": 311,
+    "name": "Just Zoom",
+    "author": "Keksuccino",
+    "category": "utility",
+    "link": "https://www.curseforge.com/minecraft/mc-mods/just-zoom",
+    "image": "/images/mods/default.jpg"
+  },
+  {
+    "id": 312,
+    "name": "YUNG's Better Witch Huts (Forge)",
+    "author": "YUNGNICKYOUNG",
+    "category": "utility",
+    "link": "https://www.curseforge.com/minecraft/mc-mods/yungs-better-witch-huts",
+    "image": "/images/mods/default.jpg"
+  },
+  {
+    "id": 313,
+    "name": "Dynamic View[Forge]",
+    "author": "someaddon",
+    "category": "utility",
+    "link": "https://www.curseforge.com/minecraft/mc-mods/dynamic-view",
+    "image": "/images/mods/default.jpg"
+  },
+  {
+    "id": 314,
+    "name": "Whisperwoods",
+    "author": "itsmeowdev",
+    "category": "utility",
+    "link": "https://www.curseforge.com/minecraft/mc-mods/whisperwoods",
+    "image": "/images/mods/default.jpg"
+  },
+  {
+    "id": 315,
+    "name": "Ping Wheel",
+    "author": "LukenSkyne",
+    "category": "utility",
+    "link": "https://www.curseforge.com/minecraft/mc-mods/ping-wheel",
+    "image": "/images/mods/default.jpg"
+  },
+  {
+    "id": 316,
+    "name": "Mekanism",
+    "author": "bradyaidanc",
+    "category": "tech",
+    "link": "https://www.curseforge.com/minecraft/mc-mods/mekanism",
+    "image": "/images/mods/default.jpg"
+  },
+  {
+    "id": 317,
+    "name": "Tinkers Construct",
+    "author": "mDiyo",
+    "category": "tech",
+    "link": "https://www.curseforge.com/minecraft/mc-mods/tinkers-construct",
+    "image": "/images/mods/default.jpg"
+  },
+  {
+    "id": 318,
+    "name": "Connectivity",
+    "author": "someaddon",
+    "category": "utility",
+    "link": "https://www.curseforge.com/minecraft/mc-mods/connectivity",
+    "image": "/images/mods/default.jpg"
+  },
+  {
+    "id": 319,
+    "name": "Origins (Forge)",
+    "author": "EdwinMindcraft",
+    "category": "utility",
+    "link": "https://www.curseforge.com/minecraft/mc-mods/origins-forge",
+    "image": "/images/mods/default.jpg"
+  },
+  {
+    "id": 320,
+    "name": "Item Filters",
+    "author": "LatvianModder",
+    "category": "utility",
+    "link": "https://www.curseforge.com/minecraft/mc-mods/item-filters",
+    "image": "/images/mods/default.jpg"
+  },
+  {
+    "id": 321,
+    "name": "Sodium/Embeddium Dynamic Lights",
+    "author": "Txni",
+    "category": "utility",
+    "link": "https://www.curseforge.com/minecraft/mc-mods/dynamiclights-reforged",
+    "image": "/images/mods/default.jpg"
+  },
+  {
+    "id": 322,
+    "name": "Sand Box",
+    "author": "noeppi_noeppi",
+    "category": "utility",
+    "link": "https://www.curseforge.com/minecraft/mc-mods/sand_box",
+    "image": "/images/mods/default.jpg"
+  },
+  {
+    "id": 323,
+    "name": "MrCrayfish's Furniture Mod (Legacy)",
+    "author": "MrCrayfish",
+    "category": "decoration",
+    "link": "https://www.curseforge.com/minecraft/mc-mods/mrcrayfish-furniture-mod",
+    "image": "/images/mods/default.jpg"
+  },
+  {
+    "id": 324,
+    "name": "Icterine",
+    "author": "mephodio",
+    "category": "utility",
+    "link": "https://www.curseforge.com/minecraft/mc-mods/icterine",
+    "image": "/images/mods/default.jpg"
+  },
+  {
+    "id": 325,
+    "name": "Blueprint",
+    "author": "TeamAbnormals",
+    "category": "utility",
+    "link": "https://www.curseforge.com/minecraft/mc-mods/blueprint",
+    "image": "/images/mods/default.jpg"
+  }
+]

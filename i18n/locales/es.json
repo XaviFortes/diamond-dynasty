@@ -84,7 +84,13 @@
             "title": "No Se Encontraron Mods",
             "text": "Intenta cambiar tus criterios de búsqueda o filtro de categoría.",
             "button": "Restablecer Filtros"
-        }
+        },
+        "featured_title": "Mods Destacados",
+        "show_all": "Mostrar todos los mods",
+        "show_less": "Mostrar menos",
+        "results_found": "mods encontrados",
+        "by": "por",
+        "no_description": "Sin descripción disponible"
     },
     "join": {
         "title": "Únete a Nuestro Servidor",
@@ -132,5 +138,20 @@
                 "success": "¡Eso es todo! Estás listo para experimentar Diamond Dynasty."
             }
         }
+    },
+    "serverStatus": {
+        "title": "Estado del Servidor",
+        "online": "Servidor En Línea",
+        "offline": "Servidor Fuera de Línea",
+        "players": "Jugadores",
+        "players_online": "Jugadores En Línea",
+        "server_offline": "El servidor está actualmente fuera de línea",
+        "check_back": "Por favor, vuelva más tarde",
+        "address": "Dirección IP:",
+        "copy_address": "Copiar dirección del servidor",
+        "copied": "¡Dirección copiada al portapapeles!",
+        "version": "Versión de Minecraft:",
+        "refresh": "Actualizar estado",
+        "last_updated": "Última actualización:"
     }
 }

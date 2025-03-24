@@ -84,7 +84,13 @@
             "title": "No Mods Found",
             "text": "Try changing your search criteria or category filter.",
             "button": "Reset Filters"
-        }
+        },
+        "featured_title": "Featured Mods",
+        "show_all": "Show all mods",
+        "show_less": "Show less",
+        "results_found": "mods found",
+        "by": "by",
+        "no_description": "No description available"
     },
     "join": {
         "title": "Join Our Server",
@@ -132,5 +138,20 @@
                 "success": "That's it! You're ready to experience Diamond Dynasty."
             }
         }
+    },
+    "serverStatus": {
+        "title": "Server Status",
+        "online": "Server Online",
+        "offline": "Server Offline",
+        "players": "players",
+        "players_online": "Players Online",
+        "server_offline": "The server is currently offline",
+        "check_back": "Please check back later",
+        "address": "Server Address:",
+        "copy_address": "Copy server address",
+        "copied": "Address copied to clipboard!",
+        "version": "Minecraft Version:",
+        "refresh": "Refresh status",
+        "last_updated": "Last updated:"
     }
 }

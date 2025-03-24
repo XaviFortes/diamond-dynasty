@@ -72,4 +72,10 @@ yarn preview
 bun run preview
 ```
 
+### Generate Modlist
+
+```bash
+node scripts/generate-modlist.cjs
+```
+
 Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
