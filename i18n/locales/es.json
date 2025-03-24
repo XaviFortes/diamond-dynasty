@@ -1,0 +1,136 @@
+{
+    "nav": {
+        "home": "Inicio",
+        "mods": "Mods",
+        "join": "Unirse",
+        "rules": "Reglas",
+        "faq": "Preguntas"
+    },
+    "footer": {
+        "description": "Diamond Dynasty es un servidor de Minecraft premium con mods personalizados, comunidad activa y eventos regulares.",
+        "links": "Enlaces Rápidos",
+        "connect": "Conéctate Con Nosotros",
+        "server_status": "Estado del Servidor",
+        "online": "Servidor En Línea",
+        "players_online": "Jugadores En Línea",
+        "rights": "Todos los Derechos Reservados"
+    },
+    "home": {
+        "hero": {
+            "title": "Bienvenido a Diamond",
+            "subtitle": "Únete a nuestra vibrante comunidad de entusiastas de Minecraft en una aventura con mods como ninguna otra.",
+            "join_button": "Unirse al Servidor",
+            "discord_button": "Unirse a Discord"
+        },
+        "features": {
+            "title": "Lo Que Nos Hace Especiales",
+            "subtitle": "Diamond Dynasty proporciona una experiencia única de Minecraft con mods y muchas características.",
+            "items": {
+                "mods": {
+                    "title": "Mods Premium",
+                    "description": "Disfruta de una selección cuidadosamente curada de más de 150 mods de alta calidad que mejoran tu experiencia de Minecraft."
+                },
+                "community": {
+                    "title": "Comunidad Activa",
+                    "description": "Únete a una comunidad amigable y solidaria de jugadores que siempre están dispuestos a ayudar y colaborar."
+                },
+                "events": {
+                    "title": "Eventos Regulares",
+                    "description": "Participa en eventos semanales, desafíos y competiciones con emocionantes recompensas."
+                }
+            }
+        },
+        "stats": {
+            "title": "Estadísticas del Servidor",
+            "subtitle": "Un vistazo a lo que hace de Diamond Dynasty uno de los mejores servidores de Minecraft con mods.",
+            "mods": "Mods Instalados",
+            "players": "Jugadores Registrados",
+            "uptime": "Tiempo de Actividad",
+            "support": "Soporte Disponible"
+        },
+        "gallery": {
+            "title": "Galería del Servidor",
+            "subtitle": "Echa un vistazo a algunas increíbles construcciones y paisajes de nuestro servidor.",
+            "captions": {
+                "1": "Centro Tecnológico por TeamRocket",
+                "2": "Bosque Mágico por Gremio de Magos",
+                "3": "Distrito de Ciudad Moderna",
+                "4": "Mecanismos de Redstone",
+                "5": "Base Subterránea",
+                "6": "Reserva Natural"
+            }
+        },
+        "cta": {
+            "title": "¿Listo para Unirte a la Aventura?",
+            "subtitle": "¡Sigue nuestra simple guía de configuración y únete a Diamond Dynasty hoy!",
+            "button": "Empieza ya"
+        }
+    },
+    "mods": {
+        "title": "Nuestra Colección de Mods",
+        "subtitle": "Explora los mods que hacen de Diamond Dynasty una experiencia única de Minecraft.",
+        "search": "Buscar mods...",
+        "all_categories": "Todas las Categorías",
+        "categories": {
+            "tech": "Tecnología",
+            "magic": "Magia",
+            "adventure": "Aventura",
+            "decoration": "Decoración",
+            "utility": "Utilidad",
+            "optimization": "Optimización"
+        },
+        "learn_more": "Saber Más",
+        "no_results": {
+            "title": "No Se Encontraron Mods",
+            "text": "Intenta cambiar tus criterios de búsqueda o filtro de categoría.",
+            "button": "Restablecer Filtros"
+        }
+    },
+    "join": {
+        "title": "Únete a Nuestro Servidor",
+        "subtitle": "Sigue estos sencillos pasos para unirte a Diamond Dynasty y comenzar tu aventura con mods en Minecraft.",
+        "status": {
+            "online": "En línea"
+        },
+        "players_online": "Jugadores En Línea",
+        "minecraft_version": "Versión de Minecraft",
+        "server_address": {
+            "title": "Dirección del Servidor",
+            "copied": "¡Dirección del servidor copiada al portapapeles!"
+        },
+        "discord": {
+            "title": "Servidor de Discord",
+            "button": "Unirse a nuestro Discord"
+        },
+        "donation": {
+            "title": "Tienda de Donaciones",
+            "description": "Apoya al servidor y obtén beneficios especiales a través de nuestra tienda de donaciones.",
+            "button": "Visitar Tienda"
+        },
+        "how_to_join": "Cómo Unirse a Diamond Dynasty",
+        "steps": {
+            "step1": {
+                "title": "Instalar el Launcher",
+                "description": "Descarga e instala uno de estos launchers para gestionar el modpack:",
+                "recommended": "Recomendado",
+                "alternative": "Alternativo",
+                "not_available": "No Disponible"
+            },
+            "step2": {
+                "title": "Descargar Nuestro Modpack",
+                "description": "Una vez que hayas instalado el launcher, busca \"Diamond Dynasty\" en el navegador de modpacks o descarga nuestro pack directamente:",
+                "button": "Descargar Modpack"
+            },
+            "step3": {
+                "title": "Instalar y Lanzar",
+                "description": "Instala el modpack a través de tu launcher preferido y asigna al menos 6GB de RAM para un mejor rendimiento.",
+                "tip": "Consejo: Asigna 6-8GB de RAM para un juego fluido. Demasiada RAM puede causar problemas de rendimiento."
+            },
+            "step4": {
+                "title": "Conectar al Servidor",
+                "description": "Abre el menú multijugador, haz clic en 'Añadir servidor', introduce nuestra dirección, ¡y únete a la aventura!",
+                "success": "¡Eso es todo! Estás listo para experimentar Diamond Dynasty."
+            }
+        }
+    }
+}

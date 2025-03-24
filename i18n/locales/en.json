@@ -1,0 +1,136 @@
+{
+    "nav": {
+        "home": "Home",
+        "mods": "Mods",
+        "join": "Join Server",
+        "rules": "Rules",
+        "faq": "FAQ"
+    },
+    "footer": {
+        "description": "Diamond Dynasty is a premium modded Minecraft server featuring custom mods, active community, and regular events.",
+        "links": "Quick Links",
+        "connect": "Connect With Us",
+        "server_status": "Server Status",
+        "online": "Server Online",
+        "players_online": "Players Online",
+        "rights": "All Rights Reserved"
+    },
+    "home": {
+        "hero": {
+            "title": "Welcome to Diamond",
+            "subtitle": "Join our vibrant community of Minecraft enthusiasts in a modded adventure like no other.",
+            "join_button": "Join Server",
+            "discord_button": "Join Discord"
+        },
+        "features": {
+            "title": "What Makes Us Special",
+            "subtitle": "Diamond Dynasty provides a unique modded Minecraft experience with many features.",
+            "items": {
+                "mods": {
+                    "title": "Premium Mods",
+                    "description": "Enjoy a carefully curated selection of over 150 high-quality mods that enhance your Minecraft experience."
+                },
+                "community": {
+                    "title": "Active Community",
+                    "description": "Join a friendly and supportive community of players who are always ready to help and collaborate."
+                },
+                "events": {
+                    "title": "Regular Events",
+                    "description": "Participate in weekly events, challenges, and competitions with exciting rewards."
+                }
+            }
+        },
+        "stats": {
+            "title": "Server Statistics",
+            "subtitle": "A glimpse of what makes Diamond Dynasty one of the best modded Minecraft servers.",
+            "mods": "Mods Installed",
+            "players": "Registered Players",
+            "uptime": "Server Uptime",
+            "support": "Support Available"
+        },
+        "gallery": {
+            "title": "Server Gallery",
+            "subtitle": "Take a peek at some amazing builds and landscapes from our server.",
+            "captions": {
+                "1": "Tech Hub by TeamRocket",
+                "2": "Magical Forest by Wizards Guild",
+                "3": "Modern City District",
+                "4": "Redstone Contraptions",
+                "5": "Underground Base",
+                "6": "Nature Reserve"
+            }
+        },
+        "cta": {
+            "title": "Ready to Join the Adventure?",
+            "subtitle": "Follow our simple setup guide and join Diamond Dynasty today!",
+            "button": "Get Started"
+        }
+    },
+    "mods": {
+        "title": "Our Mod Collection",
+        "subtitle": "Explore the mods that make Diamond Dynasty a unique Minecraft experience.",
+        "search": "Search mods...",
+        "all_categories": "All Categories",
+        "categories": {
+            "tech": "Technology",
+            "magic": "Magic",
+            "adventure": "Adventure",
+            "decoration": "Decoration",
+            "utility": "Utility",
+            "optimization": "Optimization"
+        },
+        "learn_more": "Learn More",
+        "no_results": {
+            "title": "No Mods Found",
+            "text": "Try changing your search criteria or category filter.",
+            "button": "Reset Filters"
+        }
+    },
+    "join": {
+        "title": "Join Our Server",
+        "subtitle": "Follow these simple steps to join Diamond Dynasty and start your modded Minecraft adventure.",
+        "status": {
+            "online": "Online"
+        },
+        "players_online": "Players Online",
+        "minecraft_version": "Minecraft Version",
+        "server_address": {
+            "title": "Server Address",
+            "copied": "Server address copied to clipboard!"
+        },
+        "discord": {
+            "title": "Discord Server",
+            "button": "Join our Discord"
+        },
+        "donation": {
+            "title": "Donation Store",
+            "description": "Support the server and get special perks through our donation store.",
+            "button": "Visit Store"
+        },
+        "how_to_join": "How to Join Diamond Dynasty",
+        "steps": {
+            "step1": {
+                "title": "Install the Launcher",
+                "description": "Download and install one of these launchers to manage the modpack:",
+                "recommended": "Recommended",
+                "alternative": "Alternative",
+                "not_available": "Not Available"
+            },
+            "step2": {
+                "title": "Download Our Modpack",
+                "description": "Once you have the launcher installed, search for \"Diamond Dynasty\" in the modpack browser or download our pack directly:",
+                "button": "Download Modpack"
+            },
+            "step3": {
+                "title": "Install and Launch",
+                "description": "Install the modpack through your launcher of choice and allocate at least 6GB of RAM for best performance.",
+                "tip": "Tip: Allocate 6-8GB of RAM for smooth gameplay. Too much can cause performance issues."
+            },
+            "step4": {
+                "title": "Connect to the Server",
+                "description": "Open the multiplayer menu, click 'Add Server', enter our address, and join the adventure!",
+                "success": "That's it! You're ready to experience Diamond Dynasty."
+            }
+        }
+    }
+}
